@@ -15,3 +15,5 @@
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
 
 - 📺 [Shopify Unite 2019: Track Sessions](https://www.youtube.com/watch?v=HlpOGQrRBPY&list=PLvQF73bM4-5UDT1U9aBOj5AiLxo0z1iDY).
+
+- 📺 [Shopify Unite 2018](https://www.youtube.com/watch?v=V15iFA347no&list=PLvQF73bM4-5Vxu_b8ofskvvRuitNOHnM_).
