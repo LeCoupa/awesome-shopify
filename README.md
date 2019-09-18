@@ -24,6 +24,8 @@
 
 - 📖 [REST Admin API](https://help.shopify.com/en/api/reference).
 
+- 📖 [GraphQL Admin API](https://help.shopify.com/en/api/graphql-admin-api).
+
 ## Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
