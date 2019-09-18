@@ -16,6 +16,8 @@
 
 - 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
 
+- 📖 [API versioning](https://help.shopify.com/en/api/versioning).
+
 ## Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
