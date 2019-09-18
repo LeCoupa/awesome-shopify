@@ -8,6 +8,8 @@
 
 ### Official resources
 
+- 📖 [Shopify Developers Changelog](https://developers.shopify.com/changelog).
+
 - 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
 
 ## Shopify Unite
