@@ -30,6 +30,8 @@
 
 - 📖 [Embedded apps](https://help.shopify.com/en/api/embedded-apps).
 
+- 📖 [Tools](https://help.shopify.com/en/api/tools).
+
 ## Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
