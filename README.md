@@ -2,15 +2,19 @@
 
 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify marketers and developers.
 
-## Marketers
+## Shopify Marketers (eCommerce owners)
 
-## Developers (Partners)
+## Shopify Developers (Partners)
 
 ### Official resources
 
 - 📖 [Shopify Developers Changelog](https://developers.shopify.com/changelog).
 
 - 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
+
+### Developer documentation
+
+- 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
 
 ## Shopify Unite
 
