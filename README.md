@@ -22,11 +22,13 @@
 
 - 📖 [API tutorials](https://help.shopify.com/en/api/tutorials).
 
-- 📖 [REST Admin API](https://help.shopify.com/en/api/reference).
+- 📖 [REST admin API](https://help.shopify.com/en/api/reference).
 
-- 📖 [GraphQL Admin API](https://help.shopify.com/en/api/graphql-admin-api).
+- 📖 [GraphQL admin API](https://help.shopify.com/en/api/graphql-admin-api).
 
 - 📖 [Storefront API](https://help.shopify.com/en/api/storefront-api).
+
+- 📖 [Embedded apps](https://help.shopify.com/en/api/embedded-apps).
 
 ## Shopify Unite
 
