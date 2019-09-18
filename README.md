@@ -20,6 +20,8 @@
 
 - 📖 [API guides](https://help.shopify.com/en/api/guides).
 
+- 📖 [API tutorials](https://help.shopify.com/en/api/tutorials).
+
 ## Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
