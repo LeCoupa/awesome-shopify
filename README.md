@@ -18,6 +18,8 @@
 
 - 📖 [API versioning](https://help.shopify.com/en/api/versioning).
 
+- 📖 [API guides](https://help.shopify.com/en/api/guides).
+
 ## Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
