@@ -22,6 +22,8 @@
 
 - 📖 [API tutorials](https://help.shopify.com/en/api/tutorials).
 
+- 📖 [REST Admin API](https://help.shopify.com/en/api/reference).
+
 ## Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
