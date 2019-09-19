@@ -12,6 +12,10 @@
 
 - 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
 
+### Tools
+
+- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
+
 ### Developer documentation
 
 - 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
