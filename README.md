@@ -4,6 +4,10 @@
 
 ## Shopify Marketers (eCommerce owners)
 
+### Facebook Groups
+
+- 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
