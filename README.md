@@ -2,7 +2,7 @@
 
 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify marketers and developers.
 
-## Shopify Marketers (eCommerce owners)
+## Shopify Marketers (store owners)
 
 ### Communities
 
@@ -13,6 +13,10 @@
 #### Facebook Groups
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
+
+### Products launched by Shopify
+
+- 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
 ## Shopify Developers (Partners)
 
