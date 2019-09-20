@@ -18,6 +18,8 @@
 
 - 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
+- 📦 [Shopify POS](https://www.shopify.com/pos).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
