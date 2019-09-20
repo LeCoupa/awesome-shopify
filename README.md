@@ -4,7 +4,13 @@
 
 ## Shopify Marketers (eCommerce owners)
 
-### Facebook Groups
+### Communities
+
+#### Main ones
+
+- 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
+
+#### Facebook Groups
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
 
