@@ -14,7 +14,7 @@
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
 
-### Products launched by Shopify
+### Products by Shopify
 
 - 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
@@ -23,6 +23,10 @@
 - 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
 
 - 📦 [Shopify Sales Channels](https://www.shopify.com/channels).
+
+- 📦 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
+
+- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
 
 ## Shopify Developers (Partners)
 
