@@ -20,13 +20,15 @@
 
 - 📦 [Shopify POS](https://www.shopify.com/pos).
 
+- 📦 [Shopify Payments](https://www.shopify.com/payments).
+
 - 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
 
 - 📦 [Shopify Sales Channels](https://www.shopify.com/channels).
 
 - 📦 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
 
-- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
+- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo)
 
 ### Themes
 
