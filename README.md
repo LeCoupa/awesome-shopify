@@ -16,10 +16,6 @@
 
 - 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
 
-### Tools
-
-- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
-
 ### Developer documentation
 
 - 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
@@ -49,3 +45,9 @@
 - 📺 [Shopify Unite 2018](https://www.youtube.com/watch?v=V15iFA347no&list=PLvQF73bM4-5Vxu_b8ofskvvRuitNOHnM_).
 
 - 📺 [Shopify Unite 2017](https://www.youtube.com/watch?v=7alETpaffOQ&list=PLvQF73bM4-5UVzb3UVLU-xCzXLZ2ZbRdV).
+
+### Tools
+
+- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/).
+
+- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
