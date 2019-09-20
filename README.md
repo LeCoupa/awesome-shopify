@@ -20,7 +20,7 @@
 
 - 📦 [Shopify Shipping](https://www.shopify.com/shipping).
 
-- 📦 [Shopify POS](https://www.shopify.com/pos).
+- 📦 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/)
 
 - 📦 [Shopify Payments](https://www.shopify.com/payments).
 
