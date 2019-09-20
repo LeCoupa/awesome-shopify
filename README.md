@@ -22,6 +22,8 @@
 
 - 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
 
+- 📦 [Shopify Sales Channels](https://www.shopify.com/channels).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
