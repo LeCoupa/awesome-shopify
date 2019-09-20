@@ -20,6 +20,8 @@
 
 - 📦 [Shopify POS](https://www.shopify.com/pos).
 
+- 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
