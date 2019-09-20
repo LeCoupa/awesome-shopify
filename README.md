@@ -34,6 +34,8 @@
 
 - 🎨 [Themeforest Shopify (Envato Market)](https://themeforest.net/category/ecommerce/shopify).
 
+- 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
