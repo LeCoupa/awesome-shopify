@@ -18,6 +18,8 @@
 
 - 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
+- 📦 [Shopify Shipping](https://www.shopify.com/shipping).
+
 - 📦 [Shopify POS](https://www.shopify.com/pos).
 
 - 📦 [Shopify Payments](https://www.shopify.com/payments).
