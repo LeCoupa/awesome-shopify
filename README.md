@@ -28,6 +28,10 @@
 
 - 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
 
+### Themes
+
+- 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
