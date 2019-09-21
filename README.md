@@ -86,6 +86,6 @@
 
 ### Tools
 
-- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/).
+- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([see demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
 
 - 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
