@@ -6,7 +6,7 @@
 
 ### Communities
 
-#### Main ones
+#### Main
 
 - 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
 
@@ -14,13 +14,17 @@
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
 
+#### Marketing experiments by Growth Bunker
+
+- 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability.](https://www.growthbunker.com/experiments/details/2).
+
 ### Products by Shopify
 
 - 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
 - 📦 [Shopify Shipping](https://www.shopify.com/shipping).
 
-- 📦 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/)
+- 📦 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/).
 
 - 📦 [Shopify Payments](https://www.shopify.com/payments).
 
