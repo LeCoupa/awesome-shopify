@@ -50,6 +50,8 @@
 
 - ⚙️ [Slogan maker](https://www.shopify.com/tools/slogan-maker).
 
+- ⚙️ [Pay stub generator](https://www.shopify.com/tools/pay-stub-generator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
