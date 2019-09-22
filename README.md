@@ -68,6 +68,8 @@
 
 - ⚙️ [Shipping label template](https://www.shopify.com/tools/shipping-label-template).
 
+- ⚙️ [Return policy generator](https://www.shopify.com/tools/policy-generator/refund).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
