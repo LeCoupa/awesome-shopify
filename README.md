@@ -14,13 +14,9 @@
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
 
-#### Marketing experiments by Growth Bunker
+### Built by Shopify
 
-- 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
-
-- 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
-
-### Products by Shopify
+#### Products
 
 - 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
@@ -40,7 +36,7 @@
 
 - 📦 [Shopify Kit](https://www.shopify.com/kit).
 
-### Free tools by Shopify
+#### Free tools
 
 - ⚙️ [Free tools directory](https://www.shopify.com/tools).
 
@@ -82,7 +78,17 @@
 
 - ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
 
-### Themes
+#### Others
+
+- 💰 [Exchange Marketplace](https://exchangemarketplace.com/).
+
+### Marketing experiments by Growth Bunker
+
+- 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
+
+- 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
+
+### Themes Marketplaces
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
 
@@ -90,15 +96,11 @@
 
 - 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
 
-### Shopify Experts & Shopify Agencies
+### Shopify Experts & Agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
 
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
-
-### Miscellaneous
-
-- [Exchange Marketplace](https://exchangemarketplace.com/).
 
 ## Shopify Developers (Partners)
 
