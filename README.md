@@ -66,6 +66,8 @@
 
 - ⚙️ [Purchase order template](https://www.shopify.com/tools/purchase-order-template).
 
+- ⚙️ [Shipping label template](https://www.shopify.com/tools/shipping-label-template).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
