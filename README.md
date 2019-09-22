@@ -44,6 +44,8 @@
 
 - ⚙️ [Free tools directory](https://www.shopify.com/tools).
 
+- ⚙️ [Logo maker (Hatchful)](https://hatchful.shopify.com).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
