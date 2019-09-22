@@ -40,6 +40,10 @@
 
 - 📦 [Shopify Kit](https://www.shopify.com/kit).
 
+### Free tools by Shopify
+
+- ⚙️ [Free tools directory](https://www.shopify.com/tools).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
