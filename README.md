@@ -52,6 +52,8 @@
 
 - ⚙️ [Pay stub generator](https://www.shopify.com/tools/pay-stub-generator).
 
+- ⚙️ [QR Code generator](https://www.shopify.com/pos/qr-code-generator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
