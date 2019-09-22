@@ -52,7 +52,9 @@
 
 - ⚙️ [Pay stub generator](https://www.shopify.com/tools/pay-stub-generator).
 
-- ⚙️ [QR Code generator](https://www.shopify.com/pos/qr-code-generator).
+- ⚙️ [QR code generator](https://www.shopify.com/pos/qr-code-generator).
+
+- ⚙️ [Terms and conditions generator](https://www.shopify.com/tools/policy-generator/terms-and-conditions).
 
 ### Themes
 
