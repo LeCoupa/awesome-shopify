@@ -56,6 +56,8 @@
 
 - ⚙️ [Terms and conditions generator](https://www.shopify.com/tools/policy-generator/terms-and-conditions).
 
+- ⚙️ [Privacy policy generator](https://www.shopify.com/tools/policy-generator).
+
 - ⚙️ [Business card maker](https://www.shopify.com/tools/business-card-maker).
 
 - ⚙️ [Gift certificate template](https://www.shopify.com/tools/gift-certificate-template).
