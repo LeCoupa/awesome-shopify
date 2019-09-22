@@ -5,28 +5,19 @@
 ## Table of contents
 
 - [Shopify marketers (store owners)](#shopify-marketers--store-owners-)
-
   - [Communities](#communities)
-
     - [Main](#main)
     - [Facebook groups](#facebook-groups)
-
   - [Built by Shopify](#built-by-shopify)
-
     - [Products](#products)
     - [Free tools](#free-tools)
     - [Others](#others)
-
   - [Marketing resources](#marketing-resources)
-
     - [Marketing experiments by Growth Bunker](#marketing-experiments-by-growth-bunker)
-
   - [Shopify Themes](#shopify-themes)
   - [Dropshipping](#dropshipping)
   - [Shopify Experts & Agencies](#shopify-experts---agencies)
-
 - [Shopify developers (partners)](#shopify-developers--partners-)
-
   - [Official resources](#official-resources)
   - [Developer documentation](#developer-documentation)
   - [Developement tools](#developement-tools)
