@@ -56,6 +56,8 @@
 
 - ⚙️ [Terms and conditions generator](https://www.shopify.com/tools/policy-generator/terms-and-conditions).
 
+- ⚙️ [Business card maker](https://www.shopify.com/tools/business-card-maker).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
