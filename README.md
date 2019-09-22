@@ -48,6 +48,8 @@
 
 - ⚙️ [Business name generator](https://www.shopify.com/tools/business-name-generator).
 
+- ⚙️ [Slogan maker](https://www.shopify.com/tools/slogan-maker).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
