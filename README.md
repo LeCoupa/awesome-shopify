@@ -107,11 +107,13 @@
 
 ### Marketing resources
 
-#### Marketing experiments by Growth Bunker
-
-- 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
+### Advertising
 
 - 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
+
+### Social Medias
+
+- 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
 
 ### Shopify Themes
 
