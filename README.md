@@ -58,6 +58,8 @@
 
 - ⚙️ [Business card maker](https://www.shopify.com/tools/business-card-maker).
 
+- ⚙️ [Gift certificate template](https://www.shopify.com/tools/gift-certificate-template).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
