@@ -80,6 +80,8 @@
 
 - ⚙️ [CPM calculator](https://www.shopify.com/tools/cpm-calculator).
 
+- ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
