@@ -70,6 +70,8 @@
 
 - ⚙️ [Return policy generator](https://www.shopify.com/tools/policy-generator/refund).
 
+- ⚙️ [Bill of lading form](https://www.shopify.com/tools/bill-of-lading).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
