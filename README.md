@@ -101,3 +101,7 @@
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
+
+### Kit skills
+
+- 🤖 [Conversational experiences](https://polaris.shopify.com/patterns-and-guides/conversational-experiences).
