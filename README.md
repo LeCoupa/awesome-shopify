@@ -76,6 +76,8 @@
 
 - ⚙️ [Image resizer](https://www.shopify.com/tools/image-resizer).
 
+- ⚙️ [Business loan calculator](https://www.shopify.com/tools/business-loan-calculator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
