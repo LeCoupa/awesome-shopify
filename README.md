@@ -78,6 +78,8 @@
 
 - ⚙️ [Business loan calculator](https://www.shopify.com/tools/business-loan-calculator).
 
+- ⚙️ [CPM calculator](https://www.shopify.com/tools/cpm-calculator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
