@@ -62,6 +62,8 @@
 
 - ⚙️ [Invoice generator](https://www.shopify.com/pos/invoice-generator).
 
+- ⚙️ [Purchase order template](https://www.shopify.com/tools/purchase-order-template).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
