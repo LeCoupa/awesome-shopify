@@ -72,6 +72,8 @@
 
 - ⚙️ [Bill of lading form](https://www.shopify.com/tools/bill-of-lading).
 
+- ⚙️ [Barcode generator](https://www.shopify.com/tools/barcode-generator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
