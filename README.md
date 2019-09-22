@@ -1,38 +1,31 @@
 # Awesome Shopify
 
-👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify marketers and developers.
+> 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify marketers and developers.
 
-- [Awesome Shopify](#awesome-shopify)
+## Table of contents
 
-  - [Shopify Marketers (store owners)](#shopify-marketers--store-owners-)
+- [Shopify Marketers (store owners)](#shopify-marketers--store-owners-)
+  - [Communities](#communities)
+    - [Main](#main)
+    - [Facebook groups](#facebook-groups)
+  - [Built by Shopify](#built-by-shopify)
+    - [Products](#products)
+    - [Free tools](#free-tools)
+    - [Others](#others)
+  - [Marketing resources](#marketing-resources)
+    - [Marketing experiments by Growth Bunker](#marketing-experiments-by-growth-bunker)
+  - [Shopify Themes](#shopify-themes)
+  - [Dropshipping](#dropshipping)
+  - [Shopify Experts & Agencies](#shopify-experts---agencies)
+- [Shopify Developers (Partners)](#shopify-developers--partners-)
+  - [Official resources](#official-resources)
+  - [Developer documentation](#developer-documentation)
+  - [Developement tools](#developement-tools)
+  - [Shopify Unite](#shopify-unite)
+  - [Theme building](#theme-building)
+  - [Kit skills](#kit-skills)
 
-    - [Communities](#communities)
-
-      - [Main](#main)
-      - [Facebook groups](#facebook-groups)
-
-    - [Built by Shopify](#built-by-shopify)
-
-      - [Products](#products)
-      - [Free tools](#free-tools)
-      - [Others](#others)
-
-    - [Marketing resources](#marketing-resources)
-
-      - [Marketing experiments by Growth Bunker](#marketing-experiments-by-growth-bunker)
-
-    - [Shopify Themes](#shopify-themes)
-    - [Dropshipping](#dropshipping)
-    - [Shopify Experts & Agencies](#shopify-experts---agencies)
-
-  - [Shopify Developers (Partners)](#shopify-developers--partners-)
-
-    - [Official resources](#official-resources)
-    - [Developer documentation](#developer-documentation)
-    - [Developement tools](#developement-tools)
-    - [Shopify Unite](#shopify-unite)
-    - [Theme building](#theme-building)
-    - [Kit skills](#kit-skills)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Shopify Marketers (store owners)
 
