@@ -52,6 +52,8 @@
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
 
+- 🧠 [We Make Websites](https://wemakewebsites.com/).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
