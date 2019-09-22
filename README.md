@@ -48,6 +48,10 @@
 
 - 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
 
+### Experts & Shopify Agencies
+
+- 🧠 [Shopify Experts](https://experts.shopify.com/).
+
 ## Shopify Developers (Partners)
 
 ### Official resources
