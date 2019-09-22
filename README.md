@@ -74,6 +74,8 @@
 
 - ⚙️ [Barcode generator](https://www.shopify.com/tools/barcode-generator).
 
+- ⚙️ [Image resizer](https://www.shopify.com/tools/image-resizer).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
