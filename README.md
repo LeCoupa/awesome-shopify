@@ -104,6 +104,8 @@
 
 - 🚚 [Modalyst](https://modalyst.co/).
 
+- 🚚 [Thieve](https://thieve.co).
+
 ### Shopify Experts & Agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
