@@ -60,6 +60,8 @@
 
 - ⚙️ [Gift certificate template](https://www.shopify.com/tools/gift-certificate-template).
 
+- ⚙️ [Invoice generator](https://www.shopify.com/pos/invoice-generator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
