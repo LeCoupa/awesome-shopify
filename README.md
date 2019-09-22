@@ -36,7 +36,9 @@
 
 - 📦 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
 
-- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo)
+- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
+
+- 📦 [Shopify Kit](https://www.shopify.com/kit).
 
 ### Themes
 
@@ -86,6 +88,6 @@
 
 ### Tools
 
-- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([see demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
+- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([📺 See demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
 
 - 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
