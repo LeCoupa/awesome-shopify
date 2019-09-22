@@ -4,20 +4,29 @@
 
 ## Table of contents
 
-- [Shopify Marketers (store owners)](#shopify-marketers--store-owners-)
+- [Shopify marketers (store owners)](#shopify-marketers--store-owners-)
+
   - [Communities](#communities)
+
     - [Main](#main)
     - [Facebook groups](#facebook-groups)
+
   - [Built by Shopify](#built-by-shopify)
+
     - [Products](#products)
     - [Free tools](#free-tools)
     - [Others](#others)
+
   - [Marketing resources](#marketing-resources)
+
     - [Marketing experiments by Growth Bunker](#marketing-experiments-by-growth-bunker)
+
   - [Shopify Themes](#shopify-themes)
   - [Dropshipping](#dropshipping)
   - [Shopify Experts & Agencies](#shopify-experts---agencies)
-- [Shopify Developers (Partners)](#shopify-developers--partners-)
+
+- [Shopify developers (partners)](#shopify-developers--partners-)
+
   - [Official resources](#official-resources)
   - [Developer documentation](#developer-documentation)
   - [Developement tools](#developement-tools)
@@ -25,9 +34,7 @@
   - [Theme building](#theme-building)
   - [Kit skills](#kit-skills)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-## Shopify Marketers (store owners)
+## Shopify marketers (store owners)
 
 ### Communities
 
@@ -137,7 +144,7 @@
 
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
 
-## Shopify Developers (Partners)
+## Shopify developers (partners)
 
 ### Official resources
 
