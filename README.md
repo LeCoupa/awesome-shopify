@@ -82,6 +82,10 @@
 
 - ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
 
+### Marketplaces
+
+- [Exchange Marketplace](https://exchangemarketplace.com/).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
