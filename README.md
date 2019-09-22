@@ -82,10 +82,6 @@
 
 - ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
 
-### Marketplaces
-
-- [Exchange Marketplace](https://exchangemarketplace.com/).
-
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
@@ -94,11 +90,15 @@
 
 - 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
 
-### Experts & Shopify Agencies
+### Shopify Experts & Shopify Agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
 
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
+
+### Miscellaneous
+
+- [Exchange Marketplace](https://exchangemarketplace.com/).
 
 ## Shopify Developers (Partners)
 
