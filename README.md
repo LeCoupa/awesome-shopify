@@ -46,6 +46,8 @@
 
 - ⚙️ [Logo maker (Hatchful)](https://hatchful.shopify.com).
 
+- ⚙️ [Business name generator](https://www.shopify.com/tools/business-name-generator).
+
 ### Themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
