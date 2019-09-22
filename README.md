@@ -10,7 +10,7 @@
 
 - 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
 
-#### Facebook Groups
+#### Facebook groups
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
 
@@ -82,6 +82,12 @@
 
 - 📖 [Tools](https://help.shopify.com/en/api/tools).
 
+### Developement tools
+
+- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([📺 See demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
+
+- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
+
 ### Shopify Unite
 
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
@@ -92,8 +98,6 @@
 
 - 📺 [Shopify Unite 2017](https://www.youtube.com/watch?v=7alETpaffOQ&list=PLvQF73bM4-5UVzb3UVLU-xCzXLZ2ZbRdV).
 
-### Tools
+### Theme building
 
-- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([📺 See demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
-
-- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
+- 🖼 [Shopify Polaris](https://polaris.shopify.com/).
