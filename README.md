@@ -183,7 +183,7 @@
 
 - 📺 [Shopify Unite 2017](https://www.youtube.com/playlist?list=PLvQF73bM4-5UVzb3UVLU-xCzXLZ2ZbRdV).
 
-#### Shopify Unite 2019
+#### Shopify Unite 2019: Keynotes
 
 - 📺 [Online Store: Core — Cynthia Savard Saucier](https://www.youtube.com/watch?v=lpCC7LEzN6U).
 
@@ -207,9 +207,13 @@
 
 - 📺 [Closing Remarks — Atlee Clark](https://www.youtube.com/watch?v=QcfacP_rNkc).
 
+#### Shopify Unite 2019: Track Sessions
+
 - 📺 [Introducing: A New Store Design Experience](https://www.youtube.com/watch?v=HlpOGQrRBPY).
 
 - 📺 [How to Gain and Engage App Users Through Kit Skills](https://www.youtube.com/watch?v=3HxqnEAo14Q).
+
+- 📺 [Building for a Global Audience](youtube.com/watch?v=L1S-MI7Jmvs).
 
 ### Theme building
 
