@@ -293,6 +293,8 @@
 
 - 📺 [Own Your Time // Lynsey Thornton](https://www.youtube.com/watch?v=8DCbNC6Jn9E).
 
+- 📺 [App and Partner Platform // Brandon Chu](https://www.youtube.com/watch?v=XiN3worMnCE).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
