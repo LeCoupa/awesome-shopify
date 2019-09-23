@@ -309,6 +309,8 @@
 
 - 📺 [Extending your apps into Shopify App Extensions](https://www.youtube.com/watch?v=WOuCapst4dI).
 
+- 📺 [Building Marketing Apps for All Entrepreneurs](https://www.youtube.com/watch?v=UrUaRIWRSAg).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
