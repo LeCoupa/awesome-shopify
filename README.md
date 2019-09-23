@@ -267,6 +267,8 @@
 
 - 📺 [Deconstructing the Monolith](https://www.youtube.com/watch?v=ISYKx8sa53g).
 
+- 📺 [Improving Shopping Experiences with Video & 3D Merchandising](https://www.youtube.com/watch?v=JuqfvD-6vZY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
