@@ -269,6 +269,8 @@
 
 - 📺 [Improving Shopping Experiences with Video & 3D Merchandising](https://www.youtube.com/watch?v=JuqfvD-6vZY).
 
+- 📺 [Managing Projects to Deliver Best-in-Class Service to Merchants](https://www.youtube.com/watch?v=qQ7FTkhhdmo).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
