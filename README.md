@@ -185,13 +185,15 @@
 
 #### Shopify Unite 2019
 
-- 📺 [Online Store: Core—Cynthia Savard Saucier](https://www.youtube.com/watch?v=lpCC7LEzN6U).
+- 📺 [Online Store: Core — Cynthia Savard Saucier](https://www.youtube.com/watch?v=lpCC7LEzN6U).
 
-- 📺 [Online Store: Advanced—David Mollenkamp](https://www.youtube.com/watch?v=BL6t9ebbVhI).
+- 📺 [Online Store: Advanced — David Mollenkamp](https://www.youtube.com/watch?v=BL6t9ebbVhI).
 
-- 📺 [Shopify POS—Arpan Podduturi](https://www.youtube.com/watch?v=hA_LObIJeiQ).
+- 📺 [Shopify POS — Arpan Podduturi](https://www.youtube.com/watch?v=hA_LObIJeiQ).
 
-- 📺 [Backoffice—Lynsey Thornton](https://www.youtube.com/watch?v=IZZmmoC87Vs).
+- 📺 [Backoffice — Lynsey Thornton](https://www.youtube.com/watch?v=IZZmmoC87Vs).
+
+- 📺 [Shopify Plus — Katie Cerar](https://www.youtube.com/watch?v=s-leL9XcdFM).
 
 ### Theme building
 
