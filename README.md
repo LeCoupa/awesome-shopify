@@ -347,6 +347,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Insights on Shopify Merchants // Lynsey Thornton](https://www.youtube.com/watch?v=deYxue0W1n8).
 
+- 📺 [Today: Shopify Merchants and Consumers // Satish Kanwar](https://www.youtube.com/watch?v=dvfJ2f6q8MY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
