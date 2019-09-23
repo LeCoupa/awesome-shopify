@@ -323,6 +323,8 @@
 
 - 📺 [Creating Accessible Themes](https://www.youtube.com/watch?v=yuAY-XPLqCA).
 
+- 📺 [Designing High Impact Teams for Scale](https://www.youtube.com/watch?v=uhF3yto3YWU).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
