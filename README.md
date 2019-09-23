@@ -261,6 +261,8 @@
 
 - 📺 [Strategies for Building the Best Themes for Clients](https://www.youtube.com/watch?v=VGT-j61MwgU).
 
+- 📺 [The Four Habits of Highly Effective Apps](https://www.youtube.com/watch?v=D79ey8MOzS8).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
