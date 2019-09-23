@@ -203,6 +203,8 @@
 
 - 📺 [AMA with Tobi Lütke](https://www.youtube.com/watch?v=spumKePGEiU).
 
+- 📺 [An Insider's Look at the Technology That Powers Shopify — Jean-Michel Lemieux](youtube.com/watch?v=Th7XN__ltyc).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
