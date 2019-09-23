@@ -259,6 +259,8 @@
 
 - 📺 [Storefront API and Vue.js: Leveling up Your Shopify Theme Development](https://www.youtube.com/watch?v=kJnec0sk2Ak).
 
+- 📺 [Strategies for Building the Best Themes for Clients](https://www.youtube.com/watch?v=VGT-j61MwgU).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
