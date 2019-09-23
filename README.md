@@ -291,6 +291,8 @@
 
 - 📺 [Commerce and Retail // Satish Kanwar](https://www.youtube.com/watch?v=jl29jhnNsIs).
 
+- 📺 [Own Your Time // Lynsey Thornton](https://www.youtube.com/watch?v=8DCbNC6Jn9E).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
