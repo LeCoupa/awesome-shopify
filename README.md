@@ -313,7 +313,9 @@
 
 - 📺 [Architecture of a Shopify App](https://www.youtube.com/watch?v=aGNlgRysLqk).
 
-- 📺 [Multi-Location Inventory: Unlocking New Opportunities](https://www.youtube.com/watch?v=MfzVq8PxAn4).
+- 📺 [Multi-Location Inventory: Unlocking New Opportunities](https://www.youtube.com/watch?v=k9f49DMlERc).
+
+- 📺 [Boost Your App with Discounts](https://www.youtube.com/watch?v=MfzVq8PxAn4).
 
 ### Theme building
 
