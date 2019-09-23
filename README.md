@@ -245,6 +245,8 @@
 
 - 📺 [How to Build an App in 15 Minutes](https://www.youtube.com/watch?v=gwp2rL_fdmY).
 
+- 📺 [Building Integrations and Partnerships in the Shopify Ecosystem](https://www.youtube.com/watch?v=Upu72vtYEzU).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
