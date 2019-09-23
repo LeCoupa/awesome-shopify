@@ -301,6 +301,8 @@
 
 - 📺 [Building Scalable Apps](https://www.youtube.com/watch?v=2GC6mnBbe_o).
 
+- 📺 [Navigating the Implications of GDPR and Building Trust With Merchants](https://www.youtube.com/watch?v=qjCmSVGudUY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
