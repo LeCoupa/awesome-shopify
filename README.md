@@ -283,6 +283,10 @@
 
 - 📺 [New Opportunities for Checkout](https://www.youtube.com/watch?v=Ves4sdqRWkA).
 
+#### Shopify Unite 2018
+
+- 📺 [CEO Tobi Lutke and Prime Minister Justin Trudeau Fireside Chat](https://www.youtube.com/watch?v=V15iFA347no).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
