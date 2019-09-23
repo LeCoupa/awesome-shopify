@@ -173,6 +173,8 @@
 
 ### Shopify Unite
 
+#### Playlists
+
 - 📺 [Shopify Unite 2019: Keynotes](https://www.youtube.com/playlist?list=PLvQF73bM4-5XoGEPnerBbkIef1egtD1x9).
 
 - 📺 [Shopify Unite 2019: Track Sessions](https://www.youtube.com/playlist?list=PLvQF73bM4-5UDT1U9aBOj5AiLxo0z1iDY).
@@ -180,6 +182,10 @@
 - 📺 [Shopify Unite 2018](https://www.youtube.com/playlist?list=PLvQF73bM4-5Vxu_b8ofskvvRuitNOHnM_).
 
 - 📺 [Shopify Unite 2017](https://www.youtube.com/playlist?list=PLvQF73bM4-5UVzb3UVLU-xCzXLZ2ZbRdV).
+
+#### Shopify Unite 2019
+
+- 📺 [Online Store: Core—Cynthia Savard Saucier](https://www.youtube.com/watch?v=lpCC7LEzN6U).
 
 ### Theme building
 
