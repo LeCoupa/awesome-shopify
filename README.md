@@ -219,6 +219,8 @@
 
 - 📺 [Building Multilingual Apps](https://www.youtube.com/watch?v=s2OxalKxEig).
 
+- 📺 [Wield More Control over Shipping](https://www.youtube.com/watch?v=sFkThKtXyoo).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
