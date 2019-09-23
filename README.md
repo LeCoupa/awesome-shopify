@@ -283,7 +283,7 @@
 
 - 📺 [New Opportunities for Checkout](https://www.youtube.com/watch?v=Ves4sdqRWkA).
 
-#### Shopify Unite 2018
+#### Shopify Unite 2018: Keynotes
 
 - 📺 [CEO Tobi Lutke and Prime Minister Justin Trudeau Fireside Chat](https://www.youtube.com/watch?v=V15iFA347no).
 
@@ -296,6 +296,10 @@
 - 📺 [App and Partner Platform // Brandon Chu](https://www.youtube.com/watch?v=XiN3worMnCE).
 
 - 📺 [Closing Keynote // Harley Finkelstein](https://www.youtube.com/watch?v=woLkoDmZ7hw).
+
+#### Shopify Unite 2018: Track Sessions
+
+- 📺 [Building Scalable Apps](https://www.youtube.com/watch?v=2GC6mnBbe_o).
 
 ### Theme building
 
