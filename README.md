@@ -189,6 +189,8 @@
 
 - 📺 [Online Store: Advanced—David Mollenkamp](https://www.youtube.com/watch?v=BL6t9ebbVhI).
 
+- 📺 [Shopify POS—Arpan Podduturi](https://www.youtube.com/watch?v=hA_LObIJeiQ).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
