@@ -217,6 +217,8 @@
 
 - 📺 [Building for Large Merchants](https://www.youtube.com/watch?v=tqi0ojNmwNY).
 
+- 📺 [Building Multilingual Apps](https://www.youtube.com/watch?v=s2OxalKxEig).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
