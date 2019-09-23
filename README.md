@@ -207,6 +207,8 @@
 
 - 📺 [Closing Remarks — Atlee Clark](https://www.youtube.com/watch?v=QcfacP_rNkc).
 
+- 📺 [Introducing: A New Store Design Experience](https://www.youtube.com/watch?v=HlpOGQrRBPY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
