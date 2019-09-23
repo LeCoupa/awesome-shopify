@@ -333,6 +333,8 @@
 
 - 📺 [Growing your Customer Base](https://www.youtube.com/watch?v=6o5SyxfK4ts).
 
+- 📺 [Project Management and Building Client Trust](https://www.youtube.com/watch?v=8g0ZtdN6LWw).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
