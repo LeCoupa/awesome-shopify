@@ -235,6 +235,8 @@
 
 - 📺 [Discovering Apps Across Shopify](https://www.youtube.com/watch?v=l68v6UxH3Ms).
 
+- 📺 [Making Good Apps Great](https://www.youtube.com/watch?v=tPjUCEy_IrY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
