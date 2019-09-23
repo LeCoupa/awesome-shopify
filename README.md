@@ -295,6 +295,8 @@
 
 - 📺 [App and Partner Platform // Brandon Chu](https://www.youtube.com/watch?v=XiN3worMnCE).
 
+- 📺 [Closing Keynote // Harley Finkelstein](https://www.youtube.com/watch?v=woLkoDmZ7hw).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
