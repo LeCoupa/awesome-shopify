@@ -321,6 +321,8 @@
 
 - 📺 [Selling Shopify Plus](https://www.youtube.com/watch?v=EM_tfvLj73Y).
 
+- 📺 [Creating Accessible Themes](https://www.youtube.com/watch?v=yuAY-XPLqCA).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
