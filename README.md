@@ -273,6 +273,8 @@
 
 - 📺 [Fulfillment APIs: Building a Stronger Foundation](https://www.youtube.com/watch?v=vutkRgggp6M).
 
+- 📺 [Leveraging Shopify in Regulated Markets](https://www.youtube.com/watch?v=gauco9oQ5e8).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
