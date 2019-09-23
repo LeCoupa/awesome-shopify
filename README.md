@@ -233,6 +233,8 @@
 
 - 📺 [Building Apps That Open Doors for Retail Merchants](https://www.youtube.com/watch?v=snq8M9eqWtU).
 
+- 📺 [Discovering Apps Across Shopify](https://www.youtube.com/watch?v=l68v6UxH3Ms).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
