@@ -247,6 +247,8 @@
 
 - 📺 [Building Integrations and Partnerships in the Shopify Ecosystem](https://www.youtube.com/watch?v=Upu72vtYEzU).
 
+- 📺 [Integration Testing for Themes](https://www.youtube.com/watch?v=kRTma2CztxE).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
