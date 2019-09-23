@@ -343,6 +343,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Take the Path That Leads to More Entrepreneurs // Tobi Lütke](https://www.youtube.com/watch?v=7alETpaffOQ).
 
+- 📺 [Welcome to Shopify Unite // Harley Finkelstein](https://www.youtube.com/watch?v=nKKW9CN9-RY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
