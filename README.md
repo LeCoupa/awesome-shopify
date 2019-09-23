@@ -223,6 +223,8 @@
 
 - 📺 [Empowering Leading Brands Now and in the Future](https://www.youtube.com/watch?v=rvtaJYfBK-o).
 
+- 📺 [Choosing GraphQL: APIs for the Future](https://www.youtube.com/watch?v=ezvp0eIiQoQ).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
