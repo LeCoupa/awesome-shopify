@@ -325,6 +325,8 @@
 
 - 📺 [Designing High Impact Teams for Scale](https://www.youtube.com/watch?v=uhF3yto3YWU).
 
+- 📺 [Building Retail Partnerships](https://www.youtube.com/watch?v=7yytmAtsO64).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
