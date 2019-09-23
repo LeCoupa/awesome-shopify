@@ -313,6 +313,8 @@
 
 - 📺 [Architecture of a Shopify App](https://www.youtube.com/watch?v=aGNlgRysLqk).
 
+- 📺 [Multi-Location Inventory: Unlocking New Opportunities](https://www.youtube.com/watch?v=MfzVq8PxAn4).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
