@@ -227,6 +227,8 @@
 
 - 📺 [New Ways to Grow Your Business on the Shopify App Store](https://www.youtube.com/watch?v=TTnJo3tx1pU).
 
+- 📺 [The Shopify Experts Marketplace](https://www.youtube.com/watch?v=IpNZhZqzvJM).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
