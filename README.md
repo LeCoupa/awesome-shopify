@@ -307,6 +307,8 @@
 
 - 📺 [Welcome to Track 1: Building](https://www.youtube.com/watch?v=h7HH_p5IP68).
 
+- 📺 [Extending your apps into Shopify App Extensions](https://www.youtube.com/watch?v=WOuCapst4dI).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
