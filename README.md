@@ -263,6 +263,8 @@
 
 - 📺 [The Four Habits of Highly Effective Apps](https://www.youtube.com/watch?v=D79ey8MOzS8).
 
+- 📺 [Create Value for Merchants with Better Discounting](https://www.youtube.com/watch?v=SZ3mf35AVdc).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
