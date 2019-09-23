@@ -253,7 +253,9 @@
 
 - 📺 [Metafields: Today and Tomorrow](https://www.youtube.com/watch?v=tIKJfI1oR4Y).
 
-- 📺 [Mobile First Is Dead—Long Live Mobile Only](https://www.youtube.com/watch?v=z5k3gni87Bw).
+- 📺 [Mobile First Is Dead — Long Live Mobile Only](https://www.youtube.com/watch?v=z5k3gni87Bw).
+
+- 📺 [Setting and Executing Your Agency’s Strategy](https://www.youtube.com/watch?v=MgDUwqFg_Vg).
 
 ### Theme building
 
