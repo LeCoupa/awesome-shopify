@@ -203,7 +203,9 @@
 
 - 📺 [AMA with Tobi Lütke](https://www.youtube.com/watch?v=spumKePGEiU).
 
-- 📺 [An Insider's Look at the Technology That Powers Shopify — Jean-Michel Lemieux](youtube.com/watch?v=Th7XN__ltyc).
+- 📺 [An Insider's Look at the Technology That Powers Shopify — Jean-Michel Lemieux](https://youtube.com/watch?v=Th7XN__ltyc).
+
+- 📺 [Closing Remarks — Atlee Clark](https://www.youtube.com/watch?v=QcfacP_rNkc).
 
 ### Theme building
 
