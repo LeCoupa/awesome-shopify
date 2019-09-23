@@ -229,6 +229,8 @@
 
 - 📺 [The Shopify Experts Marketplace](https://www.youtube.com/watch?v=IpNZhZqzvJM).
 
+- 📺 [AMA With Shopify's Director of Partner Platform](https://www.youtube.com/watch?v=njXRsajzTm0).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
