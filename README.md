@@ -257,6 +257,8 @@
 
 - 📺 [Setting and Executing Your Agency’s Strategy](https://www.youtube.com/watch?v=MgDUwqFg_Vg).
 
+- 📺 [Storefront API and Vue.js: Leveling up Your Shopify Theme Development](https://www.youtube.com/watch?v=kJnec0sk2Ak).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
