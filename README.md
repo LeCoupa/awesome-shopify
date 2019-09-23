@@ -271,6 +271,8 @@
 
 - 📺 [Managing Projects to Deliver Best-in-Class Service to Merchants](https://www.youtube.com/watch?v=qQ7FTkhhdmo).
 
+- 📺 [Fulfillment APIs: Building a Stronger Foundation](https://www.youtube.com/watch?v=vutkRgggp6M).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
