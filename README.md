@@ -4,7 +4,7 @@
 
 ## Table of contents
 
-- [Shopify marketers (store owners)](#shopify-marketers--store-owners-)
+- [Store owners and Shopify marketers](#store-owners-and-shopify-marketers)
   - [Communities](#communities)
     - [Main](#main)
     - [Facebook groups](#facebook-groups)
@@ -14,11 +14,11 @@
     - [Others](#others)
   - [Marketing resources](#marketing-resources)
     - [Advertising](#advertising)
-    - [Social Medias](#social-medias)
-  - [Shopify Themes](#shopify-themes)
+    - [Social medias](#social-medias)
+  - [Shopify themes](#shopify-themes)
   - [Dropshipping](#dropshipping)
-  - [Shopify Experts & Agencies](#shopify-experts---agencies)
-- [Shopify developers (partners)](#shopify-developers--partners-)
+  - [Shopify experts & agencies](#shopify-experts---agencies)
+- [App and theme developers (Shopify partners)](#app-and-theme-developers--shopify-partners-)
   - [Official resources](#official-resources)
   - [Developer documentation](#developer-documentation)
   - [Developement tools](#developement-tools)
@@ -26,6 +26,8 @@
     - [Playlists](#playlists)
     - [Shopify Unite 2019: Keynotes](#shopify-unite-2019--keynotes)
     - [Shopify Unite 2019: Track Sessions](#shopify-unite-2019--track-sessions)
+    - [Shopify Unite 2018: Keynotes](#shopify-unite-2018--keynotes)
+    - [Shopify Unite 2018: Track Sessions](#shopify-unite-2018--track-sessions)
   - [Theme building](#theme-building)
   - [Kit skills](#kit-skills)
 
