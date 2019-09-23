@@ -241,6 +241,8 @@
 
 - 📺 [Better Buyer Relationships Through Order Editing](https://www.youtube.com/watch?v=KBnm0kWXvEg).
 
+- 📺 [How to Close Your First 1000 Customers Based Solely on Data](https://www.youtube.com/watch?v=iR-Lr7xYWew).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
