@@ -275,6 +275,8 @@
 
 - 📺 [Leveraging Shopify in Regulated Markets](https://www.youtube.com/watch?v=gauco9oQ5e8).
 
+- 📺 [The Power of Unique Shopping Experiences](https://www.youtube.com/watch?v=mRMIrZ5BtY0).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
