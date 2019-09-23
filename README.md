@@ -195,6 +195,8 @@
 
 - 📺 [Shopify Plus — Katie Cerar](https://www.youtube.com/watch?v=s-leL9XcdFM).
 
+- 📺 [Developer products — Vanessa Lee](https://www.youtube.com/watch?v=pbZm4Afwpt0).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
