@@ -329,6 +329,8 @@
 
 - 📺 [Scaling Support Systems](https://www.youtube.com/watch?v=S9Z79NENiXQ).
 
+- 📺 [The Power of Community](https://www.youtube.com/watch?v=Y0DisCg89mg).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
