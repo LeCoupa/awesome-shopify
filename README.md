@@ -179,7 +179,7 @@
 
 ### Shopify Unite
 
-Unite is Shopify’s annual partner and developer conference. It’s here where they share their accomplishments as a platform over the past year and plan the future of commerce. To find out more check out the [Unite website](https://unite.shopify.com/).
+Unite is Shopify’s annual partner and developer conference. This is where they share their accomplishments as a platform over the past year and plan the future of commerce. To find out more check out the [Unite website](https://unite.shopify.com/).
 
 #### Playlists
 
@@ -338,6 +338,10 @@ Unite is Shopify’s annual partner and developer conference. It’s here where 
 - 📺 [Growing your Customer Base](https://www.youtube.com/watch?v=6o5SyxfK4ts).
 
 - 📺 [Project Management and Building Client Trust](https://www.youtube.com/watch?v=8g0ZtdN6LWw).
+
+#### Shopify Unite 2017
+
+- 📺 [Take the Path That Leads to More Entrepreneurs // Tobi Lütke](https://www.youtube.com/watch?v=7alETpaffOQ).
 
 ### Theme building
 
