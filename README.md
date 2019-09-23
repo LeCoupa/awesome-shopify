@@ -345,6 +345,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Welcome to Shopify Unite // Harley Finkelstein](https://www.youtube.com/watch?v=nKKW9CN9-RY).
 
+- 📺 [Insights on Shopify Merchants // Lynsey Thornton](https://www.youtube.com/watch?v=deYxue0W1n8).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
