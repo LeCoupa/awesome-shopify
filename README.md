@@ -239,6 +239,8 @@
 
 - 📺 [Automation as a Service: Leverage Shopify Flow to Grow Your Agency](https://www.youtube.com/watch?v=oglkzIGZNdU).
 
+- 📺 [Better Buyer Relationships Through Order Editing](https://www.youtube.com/watch?v=KBnm0kWXvEg).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
