@@ -18,16 +18,16 @@
   - [Shopify themes](#shopify-themes)
   - [Dropshipping](#dropshipping)
   - [Shopify experts & agencies](#shopify-experts---agencies)
-- [App and theme developers (Shopify partners)](#app-and-theme-developers--shopify-partners-)
+- [App and theme developers - Shopify partners](#app-and-theme-developers---shopify-partners)
   - [Official resources](#official-resources)
   - [Developer documentation](#developer-documentation)
   - [Developement tools](#developement-tools)
   - [Shopify Unite](#shopify-unite)
     - [Playlists](#playlists)
-    - [Shopify Unite 2019: Keynotes](#shopify-unite-2019--keynotes)
-    - [Shopify Unite 2019: Track Sessions](#shopify-unite-2019--track-sessions)
-    - [Shopify Unite 2018: Keynotes](#shopify-unite-2018--keynotes)
-    - [Shopify Unite 2018: Track Sessions](#shopify-unite-2018--track-sessions)
+    - [Shopify Unite 2019 - Keynotes](#shopify-unite-2019---keynotes)
+    - [Shopify Unite 2019 - Track Sessions](#shopify-unite-2019---track-sessions)
+    - [Shopify Unite 2018 - Keynotes](#shopify-unite-2018---keynotes)
+    - [Shopify Unite 2018 - Track Sessions](#shopify-unite-2018---track-sessions)
   - [Theme building](#theme-building)
   - [Kit skills](#kit-skills)
 
@@ -143,7 +143,7 @@
 
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
 
-## App and theme developers (Shopify partners)
+## App and theme developers - Shopify partners
 
 ### Official resources
 
@@ -189,7 +189,7 @@
 
 - 📺 [Shopify Unite 2017](https://www.youtube.com/playlist?list=PLvQF73bM4-5UVzb3UVLU-xCzXLZ2ZbRdV).
 
-#### Shopify Unite 2019: Keynotes
+#### Shopify Unite 2019 - Keynotes
 
 - 📺 [Online Store: Core — Cynthia Savard Saucier](https://www.youtube.com/watch?v=lpCC7LEzN6U).
 
@@ -213,7 +213,7 @@
 
 - 📺 [Closing Remarks — Atlee Clark](https://www.youtube.com/watch?v=QcfacP_rNkc).
 
-#### Shopify Unite 2019: Track Sessions
+#### Shopify Unite 2019 - Track Sessions
 
 - 📺 [Introducing: A New Store Design Experience](https://www.youtube.com/watch?v=HlpOGQrRBPY).
 
@@ -285,7 +285,7 @@
 
 - 📺 [New Opportunities for Checkout](https://www.youtube.com/watch?v=Ves4sdqRWkA).
 
-#### Shopify Unite 2018: Keynotes
+#### Shopify Unite 2018 - Keynotes
 
 - 📺 [CEO Tobi Lutke and Prime Minister Justin Trudeau Fireside Chat](https://www.youtube.com/watch?v=V15iFA347no).
 
@@ -299,7 +299,7 @@
 
 - 📺 [Closing Keynote // Harley Finkelstein](https://www.youtube.com/watch?v=woLkoDmZ7hw).
 
-#### Shopify Unite 2018: Track Sessions
+#### Shopify Unite 2018 - Track Sessions
 
 - 📺 [Building Scalable Apps](https://www.youtube.com/watch?v=2GC6mnBbe_o).
 
