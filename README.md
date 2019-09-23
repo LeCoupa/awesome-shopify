@@ -213,7 +213,9 @@
 
 - 📺 [How to Gain and Engage App Users Through Kit Skills](https://www.youtube.com/watch?v=3HxqnEAo14Q).
 
-- 📺 [Building for a Global Audience](youtube.com/watch?v=L1S-MI7Jmvs).
+- 📺 [Building for a Global Audience](https://www.youtube.com/watch?v=L1S-MI7Jmvs).
+
+- 📺 [Building for Large Merchants](https://www.youtube.com/watch?v=tqi0ojNmwNY).
 
 ### Theme building
 
