@@ -253,6 +253,8 @@
 
 - 📺 [Metafields: Today and Tomorrow](https://www.youtube.com/watch?v=tIKJfI1oR4Y).
 
+- 📺 [Mobile First Is Dead—Long Live Mobile Only](https://www.youtube.com/watch?v=z5k3gni87Bw).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
