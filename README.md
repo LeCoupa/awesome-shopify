@@ -287,6 +287,8 @@
 
 - 📺 [CEO Tobi Lutke and Prime Minister Justin Trudeau Fireside Chat](https://www.youtube.com/watch?v=V15iFA347no).
 
+- 📺 [More Voices // Tobi Lütke](https://www.youtube.com/watch?v=L9rpTw0nTRc).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
