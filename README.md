@@ -339,7 +339,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Project Management and Building Client Trust](https://www.youtube.com/watch?v=8g0ZtdN6LWw).
 
-#### Shopify Unite 2017
+#### Shopify Unite 2017 - Keynotes
 
 - 📺 [Take the Path That Leads to More Entrepreneurs // Tobi Lütke](https://www.youtube.com/watch?v=7alETpaffOQ).
 
@@ -352,6 +352,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 - 📺 [Solving Complex Problems, Simply // Christopher Lobay](https://www.youtube.com/watch?v=e_9JxUoX_Yc).
 
 - 📺 [Shopify Platform and App Extensibility // Atlee Clark](https://www.youtube.com/watch?v=FX5dyxx_ueg).
+
+#### Shopify Unite 2017 - Track Sessions
+
+- 📺 [Powered by Shopify: Pop-Ups and Point of Sale](https://www.youtube.com/watch?v=IEuwN0cF4hA).
 
 ### Theme building
 
