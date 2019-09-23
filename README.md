@@ -221,6 +221,8 @@
 
 - 📺 [Wield More Control over Shipping](https://www.youtube.com/watch?v=sFkThKtXyoo).
 
+- 📺 [Empowering Leading Brands Now and in the Future](https://www.youtube.com/watch?v=rvtaJYfBK-o).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
