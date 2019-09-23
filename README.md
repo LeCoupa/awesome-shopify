@@ -251,6 +251,8 @@
 
 - 📺 [Lessons Learned Building Apps for Shopify](https://www.youtube.com/watch?v=bkVGAJFmEIk).
 
+- 📺 [Metafields: Today and Tomorrow](https://www.youtube.com/watch?v=tIKJfI1oR4Y).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
