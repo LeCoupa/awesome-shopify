@@ -289,6 +289,8 @@
 
 - 📺 [More Voices // Tobi Lütke](https://www.youtube.com/watch?v=L9rpTw0nTRc).
 
+- 📺 [Commerce and Retail // Satish Kanwar](https://www.youtube.com/watch?v=jl29jhnNsIs).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
