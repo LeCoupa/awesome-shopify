@@ -199,6 +199,8 @@
 
 - 📺 [Shopify Fulfillment Network — Craig Miller](https://www.youtube.com/watch?v=YRRwW8fiHUY).
 
+- 📺 [Closing Keynote: The Opportunity Ahead — Harley Finkelstein](https://www.youtube.com/watch?v=1HD4uGlS1SM).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
