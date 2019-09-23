@@ -1,6 +1,6 @@
 # Awesome Shopify
 
-> 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify marketers and developers.
+> 👩‍🎓👨‍🎓 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
 
 ## Table of contents
 
@@ -29,7 +29,7 @@
   - [Theme building](#theme-building)
   - [Kit skills](#kit-skills)
 
-## Shopify marketers (store owners)
+## Store owners and Shopify marketers
 
 ### Communities
 
@@ -115,11 +115,11 @@
 
 - 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
 
-#### Social Medias
+#### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
 
-### Shopify Themes
+### Shopify themes
 
 - 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
 
@@ -135,13 +135,13 @@
 
 - 🚚 [Thieve](https://thieve.co).
 
-### Shopify Experts & Agencies
+### Shopify experts & agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
 
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
 
-## Shopify developers (partners)
+## App and theme developers (Shopify partners)
 
 ### Official resources
 
@@ -304,6 +304,8 @@
 - 📺 [Navigating the Implications of GDPR and Building Trust With Merchants](https://www.youtube.com/watch?v=qjCmSVGudUY).
 
 - 📺 [Building Apps with GraphQL](https://www.youtube.com/watch?v=bHSz1zwwSJQ).
+
+- 📺 [Welcome to Track 1: Building](https://www.youtube.com/watch?v=h7HH_p5IP68).
 
 ### Theme building
 
