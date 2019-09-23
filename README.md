@@ -319,6 +319,8 @@
 
 - 📺 [Increasing App Visibility and Lead Quality](https://www.youtube.com/watch?v=1m-BGO_IGqM).
 
+- 📺 [Selling Shopify Plus](https://www.youtube.com/watch?v=EM_tfvLj73Y).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
