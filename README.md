@@ -187,6 +187,8 @@
 
 - 📺 [Online Store: Core—Cynthia Savard Saucier](https://www.youtube.com/watch?v=lpCC7LEzN6U).
 
+- 📺 [Online Store: Advanced—David Mollenkamp](https://www.youtube.com/watch?v=BL6t9ebbVhI).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
