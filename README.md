@@ -249,6 +249,8 @@
 
 - 📺 [Integration Testing for Themes](https://www.youtube.com/watch?v=kRTma2CztxE).
 
+- 📺 [Lessons Learned Building Apps for Shopify](https://www.youtube.com/watch?v=bkVGAJFmEIk).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
