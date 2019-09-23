@@ -197,6 +197,8 @@
 
 - 📺 [Developer products — Vanessa Lee](https://www.youtube.com/watch?v=pbZm4Afwpt0).
 
+- 📺 [Shopify Fulfillment Network — Craig Miller](https://www.youtube.com/watch?v=YRRwW8fiHUY).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
