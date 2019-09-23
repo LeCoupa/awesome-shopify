@@ -277,6 +277,8 @@
 
 - 📺 [The Power of Unique Shopping Experiences](https://www.youtube.com/watch?v=mRMIrZ5BtY0).
 
+- 📺 [New Opportunities for Checkout](https://www.youtube.com/watch?v=Ves4sdqRWkA).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
