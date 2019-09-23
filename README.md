@@ -331,6 +331,8 @@
 
 - 📺 [The Power of Community](https://www.youtube.com/watch?v=Y0DisCg89mg).
 
+- 📺 [Growing your Customer Base](https://www.youtube.com/watch?v=6o5SyxfK4ts).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
