@@ -317,6 +317,8 @@
 
 - 📺 [Boost Your App with Discounts](https://www.youtube.com/watch?v=MfzVq8PxAn4).
 
+- 📺 [Increasing App Visibility and Lead Quality](https://www.youtube.com/watch?v=1m-BGO_IGqM).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
