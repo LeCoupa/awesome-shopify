@@ -237,6 +237,8 @@
 
 - 📺 [Making Good Apps Great](https://www.youtube.com/watch?v=tPjUCEy_IrY).
 
+- 📺 [Automation as a Service: Leverage Shopify Flow to Grow Your Agency](https://www.youtube.com/watch?v=oglkzIGZNdU).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
