@@ -209,6 +209,8 @@
 
 - 📺 [Introducing: A New Store Design Experience](https://www.youtube.com/watch?v=HlpOGQrRBPY).
 
+- 📺 [How to Gain and Engage App Users Through Kit Skills](https://www.youtube.com/watch?v=3HxqnEAo14Q).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
