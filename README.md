@@ -311,6 +311,8 @@
 
 - 📺 [Building Marketing Apps for All Entrepreneurs](https://www.youtube.com/watch?v=UrUaRIWRSAg).
 
+- 📺 [Architecture of a Shopify App](https://www.youtube.com/watch?v=aGNlgRysLqk).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
