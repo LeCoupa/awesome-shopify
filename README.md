@@ -303,6 +303,8 @@
 
 - 📺 [Navigating the Implications of GDPR and Building Trust With Merchants](https://www.youtube.com/watch?v=qjCmSVGudUY).
 
+- 📺 [Building Apps with GraphQL](https://www.youtube.com/watch?v=bHSz1zwwSJQ).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
