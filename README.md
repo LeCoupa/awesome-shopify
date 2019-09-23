@@ -265,6 +265,8 @@
 
 - 📺 [Create Value for Merchants with Better Discounting](https://www.youtube.com/watch?v=SZ3mf35AVdc).
 
+- 📺 [Deconstructing the Monolith](https://www.youtube.com/watch?v=ISYKx8sa53g).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
