@@ -191,6 +191,8 @@
 
 - 📺 [Shopify POS—Arpan Podduturi](https://www.youtube.com/watch?v=hA_LObIJeiQ).
 
+- 📺 [Backoffice—Lynsey Thornton](https://www.youtube.com/watch?v=IZZmmoC87Vs).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
