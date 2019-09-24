@@ -39,6 +39,8 @@
 
 - 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
 
+- 👥 [Shopify Meetups](https://meetups.shopify.com/).
+
 #### Facebook groups
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
