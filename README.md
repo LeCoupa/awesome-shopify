@@ -399,6 +399,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [The Shopify Plus Partner Program](https://www.youtube.com/watch?v=Uta3qatphqo).
 
+- 📺 [Product Management Fundamentals from Ideation to Launch: Partner Panel](https://www.youtube.com/watch?v=JAs4IK4li4I).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
