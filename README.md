@@ -417,6 +417,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Building Shopify Apps for Shopify Plus Merchants](https://www.youtube.com/watch?v=_PssBPmOkQc).
 
+- 📺 [Trends in Media and Retail: Interview with Ben Kaufman of BuzzFeed](https://www.youtube.com/watch?v=Da7S2NMJvgg).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
