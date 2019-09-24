@@ -409,6 +409,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Powered By Shopify: Popups and Point Of Sale](https://www.youtube.com/watch?v=CiOiwSwpORY).
 
+- 📺 [How Your Agency Can Maximize Marketing With Any Budget: Partner Panel](https://www.youtube.com/watch?v=cvafwl7Ylt8).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
