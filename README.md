@@ -143,6 +143,8 @@
 
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
 
+- 🧠 [Disco](https://www.discolabs.com/).
+
 ## App and theme developers - Shopify partners
 
 ### Official resources
