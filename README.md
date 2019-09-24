@@ -387,6 +387,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Examining Shopify Plus Merchant Personas](https://www.youtube.com/watch?v=5Khry652qdw).
 
+- 📺 [Native Mobile Apps](https://www.youtube.com/watch?v=h8tNhZ0kmi0).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
