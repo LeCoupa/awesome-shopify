@@ -377,6 +377,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Designing Ecommerce for Who Your Customers Want to Be](https://www.youtube.com/watch?v=DPvdw864xR8).
 
+- 📺 [Opportunities for Your Next Shopify App](https://www.youtube.com/watch?v=ZcbYkVzVitk).
+
 ### Theme building
 
 - 🖼 [Shopify Polaris](https://polaris.shopify.com/).
