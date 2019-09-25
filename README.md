@@ -37,6 +37,8 @@
 
 ### Types of store
 
+- 🛍 [Shopify Basic, Normal and Advanced](https://www.shopify.com/pricing).
+
 - 🛍 [Shopify Plus](https://www.shopify.com/plus).
 
 - 🛍 [Shopify Lite](https://www.shopify.com/lite).
