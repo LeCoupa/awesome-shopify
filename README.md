@@ -35,9 +35,11 @@
 
 ## Store owners and Shopify marketers
 
-### TYPES OF STORE
+### Types of store
 
 - 🛍 [Shopify Plus](https://www.shopify.com/plus).
+
+- 🛍 [Shopify Lite](https://www.shopify.com/lite).
 
 ### Communities
 
