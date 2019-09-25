@@ -119,6 +119,12 @@
 
 - ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
 
+### Shopify Plus Features
+
+- 🌟 [Shopify Flow](https://www.shopify.com/plus/solutions/ecommerce-automation).
+
+- 🌟 [Shopify Launchpad](https://www.shopify.com/plus/solutions/ecommerce-campaigns-flash-sale-automation).
+
 #### Others
 
 - 💰 [Exchange Marketplace](https://exchangemarketplace.com/).
