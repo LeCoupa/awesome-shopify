@@ -163,6 +163,8 @@
 
 - 🧠 [Disco](https://www.discolabs.com/).
 
+- 🧠 [P3 Media](https://pthreemedia.com/).
+
 ## App and theme developers - Shopify partners
 
 ### Official resources
@@ -193,7 +195,7 @@
 
 ### Developement tools
 
-- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([📺 See demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
+- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([see demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
 
 - 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
 
