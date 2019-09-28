@@ -171,6 +171,8 @@
 
 - 🧠 [P3 Media](https://pthreemedia.com/).
 
+- 🧠 [Pixelcabin](https://pixelcabin.io/).
+
 ## App and theme developers - Shopify partners
 
 ### Communities
