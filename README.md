@@ -177,6 +177,8 @@
 
 - 🧠 [Pixelcabin](https://pixelcabin.io/).
 
+- 🧠 [ShopPad](https://www.theshoppad.com/).
+
 ## App and theme developers - Shopify partners
 
 ### Communities
