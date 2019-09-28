@@ -173,6 +173,10 @@
 
 ## App and theme developers - Shopify partners
 
+### Communities
+
+- 👥 [Partnersmap](https://partnermaps.io/).
+
 ### Official resources
 
 - 📖 [Shopify Developers Changelog](https://developers.shopify.com/changelog).
