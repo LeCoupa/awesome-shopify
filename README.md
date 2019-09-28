@@ -167,6 +167,8 @@
 
 - 🧠 [Shopify Plus Partners (Service)](https://www.shopify.com/plus/partners/service).
 
+- 🧠 [Shopify Plus Partners (Technology)](https://www.shopify.com/plus/partners/technology).
+
 - 🧠 [We Make Websites](https://wemakewebsites.com/).
 
 - 🧠 [Disco](https://www.discolabs.com/).
