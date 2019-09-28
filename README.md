@@ -183,6 +183,8 @@
 
 ### Communities
 
+- 👥 [Shopify Partners Facebook Group](https://www.facebook.com/groups/241826302971328).
+
 - 👥 [Partnersmap](https://partnermaps.io/).
 
 ### Official resources
