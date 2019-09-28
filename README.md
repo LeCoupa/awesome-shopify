@@ -183,6 +183,8 @@
 
 ### Communities
 
+- 👥 [Shopify Partners (Facebook)](https://www.facebook.com/shopifypartners).
+
 - 👥 [Shopify Partners (Facebook Group)](https://www.facebook.com/groups/241826302971328).
 
 - 👥 [Shopify Partners India (Facebook Group)](https://www.facebook.com/groups/1881790712089368).
