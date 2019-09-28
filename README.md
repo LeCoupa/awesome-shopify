@@ -119,15 +119,29 @@
 
 - ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
 
-### Shopify Plus Features
+#### Shopify Plus Features
 
 - 🌟 [Shopify Flow](https://www.shopify.com/plus/solutions/ecommerce-automation).
 
 - 🌟 [Shopify Launchpad](https://www.shopify.com/plus/solutions/ecommerce-campaigns-flash-sale-automation).
 
-#### Others
+##### Others
 
 - 💰 [Exchange Marketplace](https://exchangemarketplace.com/).
+
+### Shopify themes
+
+#### Marketplaces
+
+- 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
+
+- 🎨 [Themeforest Shopify (Envato Market)](https://themeforest.net/category/ecommerce/shopify).
+
+- 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
+
+#### Useful tools for Shopify Theme
+
+- ⚙️ [WhatStoreTheme](https://whatstoretheme.com/): Get to know what shopify theme an online store is using.
 
 ### Marketing resources
 
@@ -138,14 +152,6 @@
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
-
-### Shopify themes
-
-- 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
-
-- 🎨 [Themeforest Shopify (Envato Market)](https://themeforest.net/category/ecommerce/shopify).
-
-- 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
 
 ### Dropshipping
 
