@@ -339,6 +339,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 👥 [Shopify Support Twitter](https://twitter.com/shopifysupport).
 
+- 👥 [Shopify Snapchat](https://www.snapchat.com/add/shopify).
+
 - 👥 [Shopify Pinterest](https://www.pinterest.com/shopify).
 
 - 👥 [Shopify Status](https://status.shopify.com/).
