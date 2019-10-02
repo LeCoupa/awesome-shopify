@@ -12,6 +12,7 @@
   - [Shopify Unite 2018 - Track Sessions](#shopify-unite-2018---track-sessions)
   - [Shopify Unite 2017 - Keynotes](#shopify-unite-2017---keynotes)
   - [Shopify Unite 2017 - Track Sessions](#shopify-unite-2017---track-sessions)
+  - [Shopify Unite 2016 - Keynotes](#shopify-unite-2016---keynotes)
 - [Store owners and Shopify marketers](#store-owners-and-shopify-marketers)
   - [Types of store](#types-of-store)
   - [Communities](#communities)
