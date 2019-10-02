@@ -353,6 +353,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
 
+- 📦 [Shopify Ping](https://www.shopify.com/ping).
+
 - 📦 [Shopify Kit](https://www.shopify.com/kit).
 
 #### Free tools
