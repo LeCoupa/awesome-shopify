@@ -16,7 +16,7 @@
 - [Store owners and Shopify marketers](#store-owners-and-shopify-marketers)
   - [Types of store](#types-of-store)
   - [Communities and help](#communities-and-help)
-  - [Official Social Networks](#official-social-networks)
+  - [Official social networks](#official-social-networks)
     - [Main](#main)
     - [Facebook groups](#facebook-groups)
   - [Built by Shopify](#built-by-shopify)
@@ -34,7 +34,7 @@
   - [Shopify experts and agencies](#shopify-experts-and-agencies)
 - [App and theme developers - Shopify partners](#app-and-theme-developers---shopify-partners)
   - [Communities and help](#communities-and-help-1)
-    - [Official Social Networks](#official-social-networks-1)
+    - [Official social networks](#official-social-networks-1)
     - [Facebook groups](#facebook-groups-1)
     - [Others](#others-1)
   - [Official resources](#official-resources)
@@ -325,9 +325,11 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ### Communities and help
 
-### Official Social Networks
+### Official social networks
 
 - 👥 [Shopify Youtube](https://www.youtube.com/user/shopify).
+
+- 👥 [Shopify Instagram](https://www.instagram.com/shopify).
 
 - 👥 [Shopify Twitter](https://twitter.com/Shopify).
 
@@ -479,7 +481,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ### Communities and help
 
-#### Official Social Networks
+#### Official social networks
 
 - 👥 [Shopify Partners Facebook](https://www.facebook.com/shopifypartners).
 
