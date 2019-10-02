@@ -306,6 +306,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [How to Succeed on the App Store](https://www.youtube.com/watch?v=lzy69ByiTS4).
 
+- 📺 [Best Practices for Building Shopify Themes](https://www.youtube.com/watch?v=pwOhcVO6M3M).
+
 ## Store owners and Shopify marketers
 
 ### Types of store
