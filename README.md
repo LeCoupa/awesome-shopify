@@ -292,6 +292,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Using the JavaScript Buy SDK](https://www.youtube.com/watch?v=_YX_zG5PnqI).
 
+- 📺 [Exceptional Ecommerce Design](https://www.youtube.com/watch?v=EYndg79qOlo).
+
 ## Store owners and Shopify marketers
 
 ### Types of store
