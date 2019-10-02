@@ -467,6 +467,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 👥 [Shopify Partners (Twitter)](https://twitter.com/ShopifyPartners).
 
+- 👥 [Shopify Dev Team (Twitter)](https://twitter.com/ShopifyDevs).
+
 - 👥 [Partnersmap](https://partnermaps.io/).
 
 ### Official resources
