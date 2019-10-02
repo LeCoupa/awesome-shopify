@@ -15,7 +15,7 @@
   - [Shopify Unite 2016 - Keynotes](#shopify-unite-2016---keynotes)
 - [Store owners and Shopify marketers](#store-owners-and-shopify-marketers)
   - [Types of store](#types-of-store)
-  - [Communities & Help](#communities---help)
+  - [Communities and help](#communities-and-help)
   - [Official Social Networks](#official-social-networks)
     - [Main](#main)
     - [Facebook groups](#facebook-groups)
@@ -31,9 +31,9 @@
     - [Advertising](#advertising)
     - [Social medias](#social-medias)
   - [Dropshipping](#dropshipping)
-  - [Shopify experts & agencies](#shopify-experts---agencies)
+  - [Shopify experts and agencies](#shopify-experts-and-agencies)
 - [App and theme developers - Shopify partners](#app-and-theme-developers---shopify-partners)
-  - [Communities & Help](#communities---help-1)
+  - [Communities and help](#communities-and-help-1)
     - [Official Social Networks](#official-social-networks-1)
     - [Facebook groups](#facebook-groups-1)
     - [Others](#others-1)
@@ -323,7 +323,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🛍 [Shopify Lite](https://www.shopify.com/lite).
 
-### Communities & Help
+### Communities and help
 
 ### Official Social Networks
 
@@ -457,7 +457,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🚚 [Thieve](https://thieve.co).
 
-### Shopify experts & agencies
+### Shopify experts and agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
 
@@ -477,7 +477,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ## App and theme developers - Shopify partners
 
-### Communities & Help
+### Communities and help
 
 #### Official Social Networks
 
