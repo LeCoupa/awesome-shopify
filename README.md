@@ -284,7 +284,9 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Shopify Unite 2016 - Keynotes
 
-- [Using the Online Store Editor](https://www.youtube.com/watch?v=scXePsSa-Jc).
+- 📺 [Using the Online Store Editor](https://www.youtube.com/watch?v=scXePsSa-Jc).
+
+- 📺 [Theme Accessibility](https://www.youtube.com/watch?v=gyFbrIp_Flw).
 
 ## Store owners and Shopify marketers
 
