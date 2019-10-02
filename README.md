@@ -323,7 +323,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🛍 [Shopify Lite](https://www.shopify.com/lite).
 
-### Communities
+### Communities & Help
 
 ### Official Social Networks
 
@@ -334,6 +334,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 - 👥 [Shopify Plus Twitter](https://twitter.com/shopifyplus).
 
 - 👥 [Shopify Support Twitter](https://twitter.com/shopifysupport).
+
+- 👥 [Shopify Status](https://status.shopify.com/).
 
 #### Main
 
@@ -475,15 +477,15 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ## App and theme developers - Shopify partners
 
-### Communities
+### Communities & Help
 
 #### Official Social Networks
 
-- 👥 [Shopify Partners (Facebook)](https://www.facebook.com/shopifypartners).
+- 👥 [Shopify Partners Facebook](https://www.facebook.com/shopifypartners).
 
-- 👥 [Shopify Partners (Twitter)](https://twitter.com/ShopifyPartners).
+- 👥 [Shopify Partners Twitter](https://twitter.com/ShopifyPartners).
 
-- 👥 [Shopify Dev Team (Twitter)](https://twitter.com/ShopifyDevs).
+- 👥 [Shopify Dev Team Twitter](https://twitter.com/ShopifyDevs).
 
 #### Facebook groups
 
