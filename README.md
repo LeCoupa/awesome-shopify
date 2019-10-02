@@ -513,6 +513,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🖼 [Shopify Theme Integration Tests](https://github.com/pixelcabin/shopify_theme_integration_tests).
 
+- 🖼 [Shopify Liquid cheat sheet](https://www.shopify.com/partners/shopify-cheat-sheet).
+
 ### Kit skills
 
 - 🤖 [Conversational experiences](https://polaris.shopify.com/patterns-and-guides/conversational-experiences).
