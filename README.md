@@ -479,6 +479,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
 
+- 📖 [Shopify app requirements checklist](https://help.shopify.com/en/api/app-store/listing-in-the-app-store/app-requirements).
+
 ### Developer documentation
 
 - 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
