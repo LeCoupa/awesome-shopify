@@ -323,6 +323,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Main
 
+- 👥 [Shopify Youtube](https://www.youtube.com/user/shopify).
+
 - 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
 
 - 👥 [Shopify Meetups](https://meetups.shopify.com/).
