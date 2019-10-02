@@ -298,6 +298,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Understanding the Mind of a Shopify Merchant](https://www.youtube.com/watch?v=xv7P-w1h-cE).
 
+- 📺 [The Power of Webhooks](https://www.youtube.com/watch?v=uYueG-MsMRk).
+
+- 📺 [Making Money from your Shopify App](https://www.youtube.com/watch?v=IbXczdhAB_s).
+
 ## Store owners and Shopify marketers
 
 ### Types of store
