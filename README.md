@@ -16,6 +16,7 @@
 - [Store owners and Shopify marketers](#store-owners-and-shopify-marketers)
   - [Types of store](#types-of-store)
   - [Communities](#communities)
+  - [Official Social Networks](#official-social-networks)
     - [Main](#main)
     - [Facebook groups](#facebook-groups)
   - [Built by Shopify](#built-by-shopify)
@@ -33,6 +34,9 @@
   - [Shopify experts & agencies](#shopify-experts---agencies)
 - [App and theme developers - Shopify partners](#app-and-theme-developers---shopify-partners)
   - [Communities](#communities-1)
+    - [Official Social Networks](#official-social-networks-1)
+    - [Facebook groups](#facebook-groups-1)
+    - [Others](#others-1)
   - [Official resources](#official-resources)
   - [Developer documentation](#developer-documentation)
   - [Development tools](#development-tools)
@@ -321,13 +325,15 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ### Communities
 
-#### Main
+### Official Social Networks
 
 - 👥 [Shopify Youtube](https://www.youtube.com/user/shopify).
 
 - 👥 [Shopify Twitter](https://twitter.com/Shopify).
 
 - 👥 [Shopify Plus Twitter](https://twitter.com/shopifyplus).
+
+#### Main
 
 - 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
 
@@ -469,15 +475,21 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ### Communities
 
+#### Official Social Networks
+
 - 👥 [Shopify Partners (Facebook)](https://www.facebook.com/shopifypartners).
+
+- 👥 [Shopify Partners (Twitter)](https://twitter.com/ShopifyPartners).
+
+- 👥 [Shopify Dev Team (Twitter)](https://twitter.com/ShopifyDevs).
+
+#### Facebook groups
 
 - 👥 [Shopify Partners (Facebook Group)](https://www.facebook.com/groups/241826302971328).
 
 - 👥 [Shopify Partners India (Facebook Group)](https://www.facebook.com/groups/1881790712089368).
 
-- 👥 [Shopify Partners (Twitter)](https://twitter.com/ShopifyPartners).
-
-- 👥 [Shopify Dev Team (Twitter)](https://twitter.com/ShopifyDevs).
+#### Others
 
 - 👥 [Partnersmap](https://partnermaps.io/).
 
