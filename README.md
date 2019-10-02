@@ -4,6 +4,14 @@
 
 ## Table of contents
 
+- [Shopify Unite](#shopify-unite)
+  - [Playlists](#playlists)
+  - [Shopify Unite 2019 - Keynotes](#shopify-unite-2019---keynotes)
+  - [Shopify Unite 2019 - Track Sessions](#shopify-unite-2019---track-sessions)
+  - [Shopify Unite 2018 - Keynotes](#shopify-unite-2018---keynotes)
+  - [Shopify Unite 2018 - Track Sessions](#shopify-unite-2018---track-sessions)
+  - [Shopify Unite 2017 - Keynotes](#shopify-unite-2017---keynotes)
+  - [Shopify Unite 2017 - Track Sessions](#shopify-unite-2017---track-sessions)
 - [Store owners and Shopify marketers](#store-owners-and-shopify-marketers)
   - [Types of store](#types-of-store)
   - [Communities](#communities)
@@ -16,7 +24,7 @@
       - [Others](#others)
   - [Shopify themes](#shopify-themes)
     - [Marketplaces](#marketplaces)
-    - [Useful tools for Shopify Theme](#useful-tools-for-shopify-theme)
+    - [Useful tools](#useful-tools)
   - [Marketing resources](#marketing-resources)
     - [Advertising](#advertising)
     - [Social medias](#social-medias)
@@ -26,209 +34,11 @@
   - [Communities](#communities-1)
   - [Official resources](#official-resources)
   - [Developer documentation](#developer-documentation)
-  - [Developement tools](#developement-tools)
-  - [Shopify Unite](#shopify-unite)
-    - [Playlists](#playlists)
-    - [Shopify Unite 2019 - Keynotes](#shopify-unite-2019---keynotes)
-    - [Shopify Unite 2019 - Track Sessions](#shopify-unite-2019---track-sessions)
-    - [Shopify Unite 2018 - Keynotes](#shopify-unite-2018---keynotes)
-    - [Shopify Unite 2018 - Track Sessions](#shopify-unite-2018---track-sessions)
-    - [Shopify Unite 2017 - Keynotes](#shopify-unite-2017---keynotes)
-    - [Shopify Unite 2017 - Track Sessions](#shopify-unite-2017---track-sessions)
+  - [Development tools](#development-tools)
   - [Theme building](#theme-building)
   - [Kit skills](#kit-skills)
 
-## Store owners and Shopify marketers
-
-### Types of store
-
-- 🛍 [Shopify Basic, Normal and Advanced](https://www.shopify.com/pricing).
-
-- 🛍 [Shopify Plus](https://www.shopify.com/plus).
-
-- 🛍 [Shopify Lite](https://www.shopify.com/lite).
-
-### Communities
-
-#### Main
-
-- 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
-
-- 👥 [Shopify Meetups](https://meetups.shopify.com/).
-
-#### Facebook groups
-
-- 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
-
-### Built by Shopify
-
-#### Products
-
-- 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
-
-- 📦 [Shopify Shipping](https://www.shopify.com/shipping).
-
-- 📦 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/).
-
-- 📦 [Shopify Payments](https://www.shopify.com/payments).
-
-- 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
-
-- 📦 [Shopify Sales Channels](https://www.shopify.com/channels).
-
-- 📦 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
-
-- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
-
-- 📦 [Shopify Kit](https://www.shopify.com/kit).
-
-#### Free tools
-
-- ⚙️ [Free tools directory](https://www.shopify.com/tools).
-
-- ⚙️ [Logo maker (Hatchful)](https://hatchful.shopify.com).
-
-- ⚙️ [Business name generator](https://www.shopify.com/tools/business-name-generator).
-
-- ⚙️ [Slogan maker](https://www.shopify.com/tools/slogan-maker).
-
-- ⚙️ [Pay stub generator](https://www.shopify.com/tools/pay-stub-generator).
-
-- ⚙️ [QR code generator](https://www.shopify.com/pos/qr-code-generator).
-
-- ⚙️ [Terms and conditions generator](https://www.shopify.com/tools/policy-generator/terms-and-conditions).
-
-- ⚙️ [Privacy policy generator](https://www.shopify.com/tools/policy-generator).
-
-- ⚙️ [Business card maker](https://www.shopify.com/tools/business-card-maker).
-
-- ⚙️ [Gift certificate template](https://www.shopify.com/tools/gift-certificate-template).
-
-- ⚙️ [Invoice generator](https://www.shopify.com/pos/invoice-generator).
-
-- ⚙️ [Purchase order template](https://www.shopify.com/tools/purchase-order-template).
-
-- ⚙️ [Shipping label template](https://www.shopify.com/tools/shipping-label-template).
-
-- ⚙️ [Return policy generator](https://www.shopify.com/tools/policy-generator/refund).
-
-- ⚙️ [Bill of lading form](https://www.shopify.com/tools/bill-of-lading).
-
-- ⚙️ [Barcode generator](https://www.shopify.com/tools/barcode-generator).
-
-- ⚙️ [Image resizer](https://www.shopify.com/tools/image-resizer).
-
-- ⚙️ [Business loan calculator](https://www.shopify.com/tools/business-loan-calculator).
-
-- ⚙️ [CPM calculator](https://www.shopify.com/tools/cpm-calculator).
-
-- ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
-
-#### Shopify Plus Features
-
-- 🌟 [Shopify Flow](https://www.shopify.com/plus/solutions/ecommerce-automation).
-
-- 🌟 [Shopify Launchpad](https://www.shopify.com/plus/solutions/ecommerce-campaigns-flash-sale-automation).
-
-##### Others
-
-- 💰 [Exchange Marketplace](https://exchangemarketplace.com/).
-
-### Shopify themes
-
-#### Marketplaces
-
-- 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
-
-- 🎨 [Themeforest Shopify (Envato Market)](https://themeforest.net/category/ecommerce/shopify).
-
-- 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
-
-#### Useful tools for Shopify Theme
-
-- ⚙️ [WhatStoreTheme](https://whatstoretheme.com/): Get to know what shopify theme an online store is using.
-
-### Marketing resources
-
-#### Advertising
-
-- 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
-
-#### Social medias
-
-- 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
-
-### Dropshipping
-
-- 🚚 [Oberlo](https://www.oberlo.com/).
-
-- 🚚 [Modalyst](https://modalyst.co/).
-
-- 🚚 [Thieve](https://thieve.co).
-
-### Shopify experts & agencies
-
-- 🧠 [Shopify Experts](https://experts.shopify.com/).
-
-- 🧠 [Shopify Plus Partners (Service)](https://www.shopify.com/plus/partners/service).
-
-- 🧠 [Shopify Plus Partners (Technology)](https://www.shopify.com/plus/partners/technology).
-
-- 🧠 [We Make Websites](https://wemakewebsites.com/).
-
-- 🧠 [Disco](https://www.discolabs.com/).
-
-- 🧠 [P3 Media](https://pthreemedia.com/).
-
-- 🧠 [Pixelcabin](https://pixelcabin.io/).
-
-- 🧠 [ShopPad](https://www.theshoppad.com/).
-
-## App and theme developers - Shopify partners
-
-### Communities
-
-- 👥 [Shopify Partners (Facebook)](https://www.facebook.com/shopifypartners).
-
-- 👥 [Shopify Partners (Facebook Group)](https://www.facebook.com/groups/241826302971328).
-
-- 👥 [Shopify Partners India (Facebook Group)](https://www.facebook.com/groups/1881790712089368).
-
-- 👥 [Partnersmap](https://partnermaps.io/).
-
-### Official resources
-
-- 📖 [Shopify Developers Changelog](https://developers.shopify.com/changelog).
-
-- 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
-
-### Developer documentation
-
-- 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
-
-- 📖 [API versioning](https://help.shopify.com/en/api/versioning).
-
-- 📖 [API guides](https://help.shopify.com/en/api/guides).
-
-- 📖 [API tutorials](https://help.shopify.com/en/api/tutorials).
-
-- 📖 [REST admin API](https://help.shopify.com/en/api/reference).
-
-- 📖 [GraphQL admin API](https://help.shopify.com/en/api/graphql-admin-api).
-
-- 📖 [Storefront API](https://help.shopify.com/en/api/storefront-api).
-
-- 📖 [Embedded apps](https://help.shopify.com/en/api/embedded-apps).
-
-- 📖 [Tools](https://help.shopify.com/en/api/tools).
-
-### Developement tools
-
-- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([see demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
-
-- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
-
-### Shopify Unite
+## Shopify Unite
 
 Unite is Shopify’s annual partner and developer conference. This is where they share their accomplishments as a platform over the past year and plan the future of commerce. To find out more check out the [Unite website](https://unite.shopify.com/).
 
@@ -471,6 +281,196 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 - 📺 [Trends in Media and Retail: Interview with Ben Kaufman of BuzzFeed](https://www.youtube.com/watch?v=Da7S2NMJvgg).
 
 - 📺 [Working with Shopify Plus Clients: Advice from Shopify Plus Partners](https://www.youtube.com/watch?v=JzhsXvbVQEk).
+
+## Store owners and Shopify marketers
+
+### Types of store
+
+- 🛍 [Shopify Basic, Normal and Advanced](https://www.shopify.com/pricing).
+
+- 🛍 [Shopify Plus](https://www.shopify.com/plus).
+
+- 🛍 [Shopify Lite](https://www.shopify.com/lite).
+
+### Communities
+
+#### Main
+
+- 👥 [Shopify subreddit](https://www.reddit.com/r/shopify/).
+
+- 👥 [Shopify Meetups](https://meetups.shopify.com/).
+
+#### Facebook groups
+
+- 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
+
+### Built by Shopify
+
+#### Products
+
+- 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
+
+- 📦 [Shopify Shipping](https://www.shopify.com/shipping).
+
+- 📦 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/).
+
+- 📦 [Shopify Payments](https://www.shopify.com/payments).
+
+- 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
+
+- 📦 [Shopify Sales Channels](https://www.shopify.com/channels).
+
+- 📦 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
+
+- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
+
+- 📦 [Shopify Kit](https://www.shopify.com/kit).
+
+#### Free tools
+
+- ⚙️ [Free tools directory](https://www.shopify.com/tools).
+
+- ⚙️ [Logo maker (Hatchful)](https://hatchful.shopify.com).
+
+- ⚙️ [Business name generator](https://www.shopify.com/tools/business-name-generator).
+
+- ⚙️ [Slogan maker](https://www.shopify.com/tools/slogan-maker).
+
+- ⚙️ [Pay stub generator](https://www.shopify.com/tools/pay-stub-generator).
+
+- ⚙️ [QR code generator](https://www.shopify.com/pos/qr-code-generator).
+
+- ⚙️ [Terms and conditions generator](https://www.shopify.com/tools/policy-generator/terms-and-conditions).
+
+- ⚙️ [Privacy policy generator](https://www.shopify.com/tools/policy-generator).
+
+- ⚙️ [Business card maker](https://www.shopify.com/tools/business-card-maker).
+
+- ⚙️ [Gift certificate template](https://www.shopify.com/tools/gift-certificate-template).
+
+- ⚙️ [Invoice generator](https://www.shopify.com/pos/invoice-generator).
+
+- ⚙️ [Purchase order template](https://www.shopify.com/tools/purchase-order-template).
+
+- ⚙️ [Shipping label template](https://www.shopify.com/tools/shipping-label-template).
+
+- ⚙️ [Return policy generator](https://www.shopify.com/tools/policy-generator/refund).
+
+- ⚙️ [Bill of lading form](https://www.shopify.com/tools/bill-of-lading).
+
+- ⚙️ [Barcode generator](https://www.shopify.com/tools/barcode-generator).
+
+- ⚙️ [Image resizer](https://www.shopify.com/tools/image-resizer).
+
+- ⚙️ [Business loan calculator](https://www.shopify.com/tools/business-loan-calculator).
+
+- ⚙️ [CPM calculator](https://www.shopify.com/tools/cpm-calculator).
+
+- ⚙️ [Profit margin calculator](https://www.shopify.com/tools/profit-margin-calculator).
+
+#### Shopify Plus Features
+
+- 🌟 [Shopify Flow](https://www.shopify.com/plus/solutions/ecommerce-automation).
+
+- 🌟 [Shopify Launchpad](https://www.shopify.com/plus/solutions/ecommerce-campaigns-flash-sale-automation).
+
+##### Others
+
+- 💰 [Exchange Marketplace](https://exchangemarketplace.com/).
+
+### Shopify themes
+
+#### Marketplaces
+
+- 🎨 [Shopify Themes Marketplace](https://themes.shopify.com/).
+
+- 🎨 [Themeforest Shopify (Envato Market)](https://themeforest.net/category/ecommerce/shopify).
+
+- 🎨 [Creative Market Shopify](https://creativemarket.com/themes/shopify).
+
+#### Useful tools
+
+- ⚙️ [WhatStoreTheme](https://whatstoretheme.com/): Get to know what shopify theme an online store is using.
+
+### Marketing resources
+
+#### Advertising
+
+- 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
+
+#### Social medias
+
+- 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
+
+### Dropshipping
+
+- 🚚 [Oberlo](https://www.oberlo.com/).
+
+- 🚚 [Modalyst](https://modalyst.co/).
+
+- 🚚 [Thieve](https://thieve.co).
+
+### Shopify experts & agencies
+
+- 🧠 [Shopify Experts](https://experts.shopify.com/).
+
+- 🧠 [Shopify Plus Partners (Service)](https://www.shopify.com/plus/partners/service).
+
+- 🧠 [Shopify Plus Partners (Technology)](https://www.shopify.com/plus/partners/technology).
+
+- 🧠 [We Make Websites](https://wemakewebsites.com/).
+
+- 🧠 [Disco](https://www.discolabs.com/).
+
+- 🧠 [P3 Media](https://pthreemedia.com/).
+
+- 🧠 [Pixelcabin](https://pixelcabin.io/).
+
+- 🧠 [ShopPad](https://www.theshoppad.com/).
+
+## App and theme developers - Shopify partners
+
+### Communities
+
+- 👥 [Shopify Partners (Facebook)](https://www.facebook.com/shopifypartners).
+
+- 👥 [Shopify Partners (Facebook Group)](https://www.facebook.com/groups/241826302971328).
+
+- 👥 [Shopify Partners India (Facebook Group)](https://www.facebook.com/groups/1881790712089368).
+
+- 👥 [Partnersmap](https://partnermaps.io/).
+
+### Official resources
+
+- 📖 [Shopify Developers Changelog](https://developers.shopify.com/changelog).
+
+- 📖 [Shopify Partner Academy](https://partner-training.shopify.com/my_courses).
+
+### Developer documentation
+
+- 📖 [Getting started](https://help.shopify.com/en/api/getting-started).
+
+- 📖 [API versioning](https://help.shopify.com/en/api/versioning).
+
+- 📖 [API guides](https://help.shopify.com/en/api/guides).
+
+- 📖 [API tutorials](https://help.shopify.com/en/api/tutorials).
+
+- 📖 [REST admin API](https://help.shopify.com/en/api/reference).
+
+- 📖 [GraphQL admin API](https://help.shopify.com/en/api/graphql-admin-api).
+
+- 📖 [Storefront API](https://help.shopify.com/en/api/storefront-api).
+
+- 📖 [Embedded apps](https://help.shopify.com/en/api/embedded-apps).
+
+- 📖 [Tools](https://help.shopify.com/en/api/tools).
+
+### Development tools
+
+- 📖 [Shopify App CLI](https://github.com/Shopify/shopify-app-cli/). ([see demo here](https://www.youtube.com/watch?v=gwp2rL_fdmY))
+
+- 📖 [Shopify Developer Tools](https://help.shopify.com/en/api/tools/developer-tools).
 
 ### Theme building
 
