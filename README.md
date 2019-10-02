@@ -327,6 +327,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 👥 [Shopify Meetups](https://meetups.shopify.com/).
 
+- 👥 [Shopify forums](https://community.shopify.com/).
+
 #### Facebook groups
 
 - 👥 [Growth Bunker Shopify VIP](https://www.facebook.com/groups/882441075470395).
