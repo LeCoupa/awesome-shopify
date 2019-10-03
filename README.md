@@ -497,6 +497,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 👥 [Shopify Dev Team Twitter](https://twitter.com/ShopifyDevs).
 
+- 👥 [Shopify UX Medium](https://ux.shopify.com/).
+
 #### Facebook groups
 
 - 👥 [Shopify Partners (Facebook Group)](https://www.facebook.com/groups/241826302971328).
