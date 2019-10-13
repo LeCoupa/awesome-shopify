@@ -455,6 +455,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
 
+- 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
