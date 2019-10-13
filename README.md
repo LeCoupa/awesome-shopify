@@ -459,6 +459,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
 
+- 📖 [Take advantage of indirect advertising by encouraging your customers to unbox and review your product on social networks](https://www.growthbunker.com/experiments/details/7)
+
 ### Dropshipping
 
 - 🚚 [Oberlo](https://www.oberlo.com/).
