@@ -491,6 +491,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🧠 [Pixel Union](https://pixelunion.agency/).
 
+- 🧠 [Elkfox](https://elkfox.com/).
+
 ## App and theme developers - Shopify partners
 
 ### Communities and help
