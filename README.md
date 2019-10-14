@@ -504,6 +504,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📺 [Curious Themes - Shopify Experts](https://www.youtube.com/channel/UCztm-DxaKV1EpXSVxlVvbeg/videos).
 
+- 📺 [Jody Edgar - The Shopify Expert](https://www.youtube.com/user/howtoshopify/videos).
+
 ## App and theme developers - Shopify partners
 
 ### Communities and help
