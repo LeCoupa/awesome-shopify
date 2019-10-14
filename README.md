@@ -489,6 +489,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🧠 [ShopPad](https://www.theshoppad.com/).
 
+- 🧠 [Pixel Union](https://pixelunion.agency/).
+
 ## App and theme developers - Shopify partners
 
 ### Communities and help
