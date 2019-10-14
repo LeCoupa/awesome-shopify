@@ -35,6 +35,7 @@
     - [Dropshipping](#dropshipping)
     - [Shopify experts and agencies](#shopify-experts-and-agencies)
     - [Blogs](#blogs)
+    - [YouTube channels](#youtube-channels)
   - [App and theme developers - Shopify partners](#app-and-theme-developers---shopify-partners)
     - [Communities and help](#communities-and-help-1)
       - [Official social networks](#official-social-networks-1)
@@ -500,7 +501,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Spently Blog](https://spently.com/blog).
 
-### YouTube Channels
+### YouTube channels
 
 - 📺 [Curious Themes - Shopify Experts](https://www.youtube.com/channel/UCztm-DxaKV1EpXSVxlVvbeg/videos).
 
