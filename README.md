@@ -1,6 +1,6 @@
 # Awesome Shopify
 
-> 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify ownersa and app developers.
+> 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify owners and app developers.
 
 ## Table of contents
 
