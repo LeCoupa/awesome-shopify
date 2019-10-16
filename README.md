@@ -462,7 +462,11 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
 
+#### Advertising (Retargeting)
+
 - 📖 [Retarget your visitors with authentic review videos that demo the products they browsed (but did not buy)](https://www.growthbunker.com/experiments/details/10).
+
+- 📖 [35 Retargeting Campaigns You’ve Never Heard Of Before](https://klientboost.com/retargeting/retargeting/).
 
 #### Upselling and cross-promotion
 
