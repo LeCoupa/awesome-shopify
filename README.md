@@ -461,6 +461,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
 
+#### Upselling and cross-promotion
+
+- 📖 [How To Turn Your Shopify Thank You Page Into An Opportunity For More Sales](https://spently.com/blog/how-to-turn-your-shopify-thank-you-page-into-an-opportunity-for-more-sales).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
