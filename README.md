@@ -31,6 +31,7 @@
       - [Useful tools](#useful-tools)
     - [Marketing resources](#marketing-resources)
       - [Advertising](#advertising)
+      - [Upselling and cross-promotion](#upselling-and-cross-promotion)
       - [Social medias](#social-medias)
     - [Dropshipping](#dropshipping)
     - [Shopify experts and agencies](#shopify-experts-and-agencies)
