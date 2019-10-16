@@ -464,6 +464,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Upselling and cross-promotion
 
+- 📖 [Set up Buy-One-Get-One (BOGO) discounts to incentivize your customers to purchase a products or to empty your inventory](https://www.growthbunker.com/experiments/details/9).
+
 - 📖 [How To Turn Your Shopify Thank You Page Into An Opportunity For More Sales](https://spently.com/blog/how-to-turn-your-shopify-thank-you-page-into-an-opportunity-for-more-sales).
 
 #### Social medias
