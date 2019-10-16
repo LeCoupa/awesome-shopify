@@ -468,6 +468,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [35 Retargeting Campaigns You’ve Never Heard Of Before](https://klientboost.com/retargeting/retargeting/).
 
+- 📖 [Retargeting campaigns: 25 tips from marketing experts](https://blog.rebrandly.com/retargeting-campaigns/).
+
 #### Upselling and cross-promotion
 
 - 📖 [Set up Buy-One-Get-One (BOGO) discounts to incentivize your customers to purchase a products or to empty your inventory](https://www.growthbunker.com/experiments/details/9).
