@@ -31,7 +31,7 @@
       - [Useful tools](#useful-tools)
     - [Marketing resources](#marketing-resources)
       - [Advertising](#advertising)
-      - [Advertising (Retargeting)](#advertising--retargeting-)
+      - [Advertising (Retargeting)](#advertising---retargeting)
       - [Upselling and cross-promotion](#upselling-and-cross-promotion)
       - [Social medias](#social-medias)
     - [Dropshipping](#dropshipping)
@@ -463,7 +463,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
 
-#### Advertising (Retargeting)
+#### Advertising - Retargeting
 
 - 📖 [Retarget your visitors with authentic review videos that demo the products they browsed (but did not buy)](https://www.growthbunker.com/experiments/details/10).
 
