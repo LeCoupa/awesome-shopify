@@ -1,6 +1,6 @@
 # Awesome Shopify
 
-> 👩‍🎓👨‍🎓 Must-read articles, videos and books for store owners, app and theme developers.
+> 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify ownersa and app developers.
 
 ## Table of contents
 
@@ -471,17 +471,17 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Retargeting campaigns: 25 tips from marketing experts](https://blog.rebrandly.com/retargeting-campaigns/).
 
-#### Upselling and cross-promotion
-
-- 📖 [Set up Buy-One-Get-One (BOGO) discounts to incentivize your customers to purchase a products or to empty your inventory](https://www.growthbunker.com/experiments/details/9).
-
-- 📖 [How To Turn Your Shopify Thank You Page Into An Opportunity For More Sales](https://spently.com/blog/how-to-turn-your-shopify-thank-you-page-into-an-opportunity-for-more-sales).
-
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
 
 - 📖 [Take advantage of indirect advertising by encouraging your customers to unbox and review your product on social networks](https://www.growthbunker.com/experiments/details/7)
+
+#### Upselling and cross-promotion
+
+- 📖 [Set up Buy-One-Get-One (BOGO) discounts to incentivize your customers to purchase a products or to empty your inventory](https://www.growthbunker.com/experiments/details/9).
+
+- 📖 [How To Turn Your Shopify Thank You Page Into An Opportunity For More Sales](https://spently.com/blog/how-to-turn-your-shopify-thank-you-page-into-an-opportunity-for-more-sales).
 
 ### Dropshipping
 
