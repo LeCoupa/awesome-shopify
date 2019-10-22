@@ -497,6 +497,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 💬 [Richpanel](https://richpanel.com/).
 
+- 💬 [Shopify Chat](https://apps.shopify.com/chat).
+
 ### Shopify experts and agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
