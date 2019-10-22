@@ -493,6 +493,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ## Customer Support for eCommerce
 
+- 💬 [Gorgias](https://gorgias.io/).
+
 - 💬 [Richpanel](https://richpanel.com/).
 
 ### Shopify experts and agencies
