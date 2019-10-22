@@ -491,6 +491,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🚚 [Thieve](https://thieve.co).
 
+## Customer Support for eCommerce
+
+- 💬 [Richpanel](https://richpanel.com/).
+
 ### Shopify experts and agencies
 
 - 🧠 [Shopify Experts](https://experts.shopify.com/).
