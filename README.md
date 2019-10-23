@@ -475,6 +475,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 ##### Lookalike
 
+- 📖 [Advertise some products to audiences who are similar to the current customers or a specific segment of people](https://www.growthbunker.com/experiments/details/12).
+
 - 📖 [7 eCommerce Lookalike Audiences That Are Worth Testing](https://blog.ladder.io/ecommerce-lookalike-audiences/).
 
 - 📖 [The \$1,500 Facebook Audience Experiment: 1% vs. 5% vs. 10% Lookalike](https://adespresso.com/blog/adespresso-experiment-facebook-lookalike-audience/).
