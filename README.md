@@ -479,6 +479,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Advertisers seeing dwindling results with Facebook's 1% Lookalike Audiences](https://marketingland.com/advertisers-seeing-dwindling-results-with-facebooks-1-lookalike-audiences-261045).
 
+- 📖 [Facebook Ads: Create a Value-Based Lookalike Audience](https://www.jonloomer.com/2017/06/01/facebook-ads-value-based-lookalike-audience/).
+
 ##### Retargeting
 
 - 📖 [Retarget your visitors with authentic review videos that demo the products they browsed (but did not buy)](https://www.growthbunker.com/experiments/details/10).
