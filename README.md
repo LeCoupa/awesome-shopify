@@ -469,6 +469,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
 
+#### Facebook Ads
+
+- 📖 [The top 9+4 Custom Audiences with really high ROI](https://newsfeed.org/top-9-4-custom-audiences-with-really-high-roi/).
+
 ##### Lookalike
 
 - 📖 [7 eCommerce Lookalike Audiences That Are Worth Testing](https://blog.ladder.io/ecommerce-lookalike-audiences/).
