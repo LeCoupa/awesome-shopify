@@ -54,8 +54,6 @@
     - [Theme building](#theme-building)
     - [Kit skills](#kit-skills)
 
-<
-
 ## Shopify Unite
 
 Unite is Shopify’s annual partner and developer conference. This is where they share their accomplishments as a platform over the past year and plan the future of commerce. To find out more check out the [Unite website](https://unite.shopify.com/).
