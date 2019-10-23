@@ -511,6 +511,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [How To Turn Your Shopify Thank You Page Into An Opportunity For More Sales](https://spently.com/blog/how-to-turn-your-shopify-thank-you-page-into-an-opportunity-for-more-sales).
 
+- 📖 [Upsell customers on the thank you page with an upgraded version or by cross-selling complementary products](https://www.growthbunker.com/experiments/details/11).
+
 #### Others
 
 - 📖 [Growth Hacking eCommerce: 18 Underrated Hacks To Convert More Visitors](https://www.coredna.com/blogs/ecommerce-growth-hacks).
