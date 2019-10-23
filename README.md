@@ -461,11 +461,15 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Advertising
 
+##### Google Ads (Search, Display, Gmail, Shopping, YouTube)
+
+- 📖 [4 Advanced AdWords Audience Targeting Tactics](https://www.searchenginejournal.com/advanced-adwords-audience-targeting-tactics/232711/).
+
 - 📖 [Target or Retarget Potential Customers on Gmail Ads. Analyse Your Cost per Conversion and Retarget on Desktop for Better Profitability](https://www.growthbunker.com/experiments/details/2).
 
 - 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
 
-### Advertising - Lookalike
+##### Lookalike
 
 - 📖 [7 eCommerce Lookalike Audiences That Are Worth Testing](https://blog.ladder.io/ecommerce-lookalike-audiences/).
 
@@ -475,7 +479,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Advertisers seeing dwindling results with Facebook's 1% Lookalike Audiences](https://marketingland.com/advertisers-seeing-dwindling-results-with-facebooks-1-lookalike-audiences-261045).
 
-#### Advertising - Retargeting
+##### Retargeting
 
 - 📖 [Retarget your visitors with authentic review videos that demo the products they browsed (but did not buy)](https://www.growthbunker.com/experiments/details/10).
 
