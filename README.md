@@ -32,7 +32,7 @@
     - [Marketing resources](#marketing-resources)
       - [Advertising](#advertising)
         - [Google Ads (Search, Display, Gmail, Shopping, YouTube)](#google-ads--search--display--gmail--shopping--youtube-)
-      - [Facebook Ads](#facebook-ads)
+        - [Facebook Ads](#facebook-ads)
         - [Lookalike](#lookalike)
         - [Retargeting](#retargeting)
       - [Social medias](#social-medias)
@@ -53,6 +53,8 @@
     - [Development tools](#development-tools)
     - [Theme building](#theme-building)
     - [Kit skills](#kit-skills)
+
+<
 
 ## Shopify Unite
 
@@ -472,7 +474,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Automatically sync your Shopify products with Google Shopping and advertise them across Google's Network](https://www.growthbunker.com/experiments/details/8).
 
-#### Facebook Ads
+##### Facebook Ads
 
 - 📖 [The top 9+4 Custom Audiences with really high ROI](https://newsfeed.org/top-9-4-custom-audiences-with-really-high-roi/).
 
