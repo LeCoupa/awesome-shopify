@@ -512,6 +512,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [What the FAQ? Do's and Don'ts of FAQ's](https://www.userlike.com/en/blog/what-the-faq-dos-and-donts-of-faqs).
 
+- 📖 [3 Ways to Create a Good (And SEO-friendly!) FAQ Page](https://www.volusion.com/blog/create-seo-friendly-faq-page/).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
