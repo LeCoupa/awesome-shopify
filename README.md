@@ -502,13 +502,15 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Retargeting campaigns: 25 tips from marketing experts](https://blog.rebrandly.com/retargeting-campaigns/).
 
-#### Product Page
+#### Product and category pages
 
 - 📖 [Ecommerce Product Pages: 6 Shopify Examples to Learn from](https://www.oberlo.com/ebooks/powerful-product-pages/best-product-pages).
 
 - 📖 [Why Your Store’s FAQ Page is More Important Than You Think](https://woocommerce.com/posts/faq-page-design/).
 
 - 📖 [Common online store FAQs for your customers](https://ozcartecommerce.com/ecommerce/common-online-store-faqs-for-your-customers).
+
+- 📖 [What the FAQ? Do's and Don'ts of FAQ's](https://www.userlike.com/en/blog/what-the-faq-dos-and-donts-of-faqs).
 
 #### Social medias
 
