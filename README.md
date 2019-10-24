@@ -504,7 +504,9 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Product Page
 
-- [Ecommerce Product Pages: 6 Shopify Examples to Learn from](https://www.oberlo.com/ebooks/powerful-product-pages/best-product-pages)
+- 📖 [Ecommerce Product Pages: 6 Shopify Examples to Learn from](https://www.oberlo.com/ebooks/powerful-product-pages/best-product-pages).
+
+📖 [Why Your Store’s FAQ Page is More Important Than You Think](https://woocommerce.com/posts/faq-page-design/).
 
 #### Social medias
 
