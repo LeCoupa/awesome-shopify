@@ -558,7 +558,9 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🧠 [Elkfox](https://elkfox.com/).
 
-### Blogs
+### Great marketing blogs for eCommerces
+
+- 📖 [Sleeknote Blog](https://sleeknote.com/blog).
 
 - 📖 [Spently Blog](https://spently.com/blog).
 
