@@ -578,6 +578,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Spently Blog](https://spently.com/blog).
 
+- 📖 [Volusion Blog](https://www.volusion.com/blog/).
+
 ### YouTube channels
 
 - 📺 [Curious Themes - Shopify Experts](https://www.youtube.com/channel/UCztm-DxaKV1EpXSVxlVvbeg/videos).
