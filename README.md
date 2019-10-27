@@ -43,7 +43,7 @@
       - [Upselling and cross-promotion](#upselling-and-cross-promotion)
       - [Others](#others-1)
     - [Dropshipping](#dropshipping)
-  - [Customer Support for eCommerce](#customer-support-for-ecommerce)
+    - [Customer Support for eCommerce](#customer-support-for-ecommerce)
     - [Shopify experts and agencies](#shopify-experts-and-agencies)
     - [Great marketing blogs for eCommerces](#great-marketing-blogs-for-ecommerces)
     - [YouTube channels](#youtube-channels)
@@ -572,7 +572,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🚚 [Thieve](https://thieve.co).
 
-## Customer Support for eCommerce
+### Customer Support for eCommerce
 
 - 💬 [Gorgias](https://gorgias.io/).
 
