@@ -509,7 +509,9 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Product inventory
 
-- 📖 [9 Tips to Manage Out-of-stock Inventory | Practical Ecommerce](https://www.practicalecommerce.com/9-tips-manage-stock-inventory).
+- 📖 [9 Tips to Manage Out-of-stock Inventory](https://www.practicalecommerce.com/9-tips-manage-stock-inventory).
+
+- 📖 [Highlight scarcity and encourage customers to order now by showing when the inventory is low for the visited product](https://www.growthbunker.com/experiments/details/14).
 
 #### Product and category pages
 
