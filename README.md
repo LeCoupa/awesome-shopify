@@ -539,6 +539,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Evergreen Tactics To Increase Ecommerce Conversion Sales](https://vwo.com/blog/increase-ecommerce-conversion-sales/).
 
+- 📖 [How to Use Urgency and Scarcity to Increase Your Online Sales](https://beeketing.com/blog/use-urgency-scarcity-to-increase-online-sales/).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
