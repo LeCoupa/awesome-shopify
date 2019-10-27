@@ -537,6 +537,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [14 Bullet-Proof Techniques to Create Urgency on Ecommerce Product Pages](https://www.growcode.com/blog/create-urgency-ecommerce-product-pages/).
 
+- 📖 [Evergreen Tactics To Increase Ecommerce Conversion Sales](https://vwo.com/blog/increase-ecommerce-conversion-sales/).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
