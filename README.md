@@ -527,6 +527,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [23 Tactics to Create Urgency and Grow Your eCommerce Conversions](https://www.coredna.com/blogs/how-to-create-urgency-in-ecommerce).
 
+- 📖 [14 Bullet-Proof Techniques to Create Urgency on Ecommerce Product Pages](https://www.growcode.com/blog/create-urgency-ecommerce-product-pages/).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
