@@ -503,6 +503,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Retargeting campaigns: 25 tips from marketing experts](https://blog.rebrandly.com/retargeting-campaigns/).
 
+#### Analytics and reports
+
+- 📖 [6 Types of Inventory and Sales Reports to Use in Your Retail Store](https://www.vendhq.com/blog/retail-inventory-sales-reports/).
+
 #### Product inventory
 
 - 📖 [9 Tips to Manage Out-of-stock Inventory | Practical Ecommerce](https://www.practicalecommerce.com/9-tips-manage-stock-inventory).
