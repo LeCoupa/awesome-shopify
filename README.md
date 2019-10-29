@@ -606,6 +606,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Sleeknote Blog](https://sleeknote.com/blog).
 
+- 📖 [Bootstrapping eCommerce](https://bootstrappingecommerce.com/).
+
 - 📖 [Spently Blog](https://spently.com/blog).
 
 - 📖 [Volusion Blog](https://www.volusion.com/blog/).
