@@ -338,6 +338,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🛍 [Shopify Lite](https://www.shopify.com/lite).
 
+- 📖 [Shopify vs Shopify Plus: Which Version is Right for You?](https://gorgias.io/blog/shopify-vs-shopify-plus).
+
 ### Communities and help
 
 ### Official social networks
