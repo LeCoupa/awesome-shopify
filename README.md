@@ -338,7 +338,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 🛍 [Shopify Lite](https://www.shopify.com/lite).
 
-- 📖 [Shopify vs Shopify Plus: Which Version is Right for You?](https://gorgias.io/blog/shopify-vs-shopify-plus).
+- 📖 [Shopify vs Shopify Plus: Which Version is Right for You?](https://gorgias.io/blog/shopify-vs-shopify-plus)
 
 ### Communities and help
 
@@ -515,6 +515,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 #### Apps
 
 - 📖 [Best 14 Free Shopify Apps You Need to Install](https://www.oberlo.com/blog/top-14-free-shopify-apps-need-install).
+
+- 📖 [Best shopify apps to increase sales for Black Friday](https://gorgias.io/blog/best-shopify-apps-increase-sales).
 
 #### Product inventory
 
