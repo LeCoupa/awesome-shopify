@@ -518,6 +518,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Best shopify apps to increase sales for Black Friday](https://gorgias.io/blog/best-shopify-apps-increase-sales).
 
+- 📖 [20 Best Shopify Apps to Boost Your Shopify Store Performance](https://gorgias.io/blog/best-shopify-apps).
+
 #### Product inventory
 
 - 📖 [9 Tips to Manage Out-of-stock Inventory](https://www.practicalecommerce.com/9-tips-manage-stock-inventory).
