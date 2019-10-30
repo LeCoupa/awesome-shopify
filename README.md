@@ -520,6 +520,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [20 Best Shopify Apps to Boost Your Shopify Store Performance](https://gorgias.io/blog/best-shopify-apps).
 
+#### Customer support
+
+- 📖 [5 Reasons Why Live Chat is Important for Your Business Website](https://www.liveagent.com/blog/5-reasons-why-live-chat-is-important-for-your-business-website/).
+
 #### Product inventory
 
 - 📖 [9 Tips to Manage Out-of-stock Inventory](https://www.practicalecommerce.com/9-tips-manage-stock-inventory).
