@@ -556,6 +556,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [How to Use Urgency and Scarcity to Increase Your Online Sales](https://beeketing.com/blog/use-urgency-scarcity-to-increase-online-sales/).
 
+#### SEO
+
+- 📖 [For SEO, How Fast Is Fast Enough?](https://www.practicalecommerce.com/for-seo-how-fast-is-fast-enough).
+
 #### Social medias
 
 - 📖 [Publish a Viral Twitter Thread Around Your Product Story. When Performing, Promote It with Twitter Ads](https://www.growthbunker.com/experiments/details/3).
