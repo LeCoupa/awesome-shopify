@@ -2,6 +2,12 @@
 
 > 👩‍🎓👨‍🎓 Must-read articles, videos and books for Shopify owners and app developers.
 
+<p align="center" style="background: #1b2431; padding: 20px 0;">
+  <a href="https://www.facebook.com/groups/882441075470395/" target="_blank">
+    <img width="100%" src="https://raw.githubusercontent.com/growthbunker/vuedarkmode/master/images/shopify_banner.jpg">
+  </a>
+</p>
+
 ## Table of contents
 
 - [Awesome Shopify](#awesome-shopify)
