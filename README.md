@@ -48,6 +48,7 @@
       - [Social medias](#social-medias)
       - [Upselling and cross-promotion](#upselling-and-cross-promotion)
       - [Others](#others-1)
+    - [Marketing Tools](#marketing-tools)
     - [Dropshipping](#dropshipping)
     - [Customer Support for eCommerce](#customer-support-for-ecommerce)
     - [Shopify experts and agencies](#shopify-experts-and-agencies)
