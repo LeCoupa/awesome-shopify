@@ -641,6 +641,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Gorgias Blog (focused on customer support)](https://gorgias.io/blog).
 
+- 📖 [Ecommerce Tech](https://ecommercetech.io/).
+
 ### YouTube channels
 
 - 📺 [Curious Themes - Shopify Experts](https://www.youtube.com/channel/UCztm-DxaKV1EpXSVxlVvbeg/videos).
