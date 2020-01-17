@@ -536,6 +536,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [Ecommerce Email Marketing Statistics 2018 [Infographic]](https://www.omnisend.com/blog/ecommerce-email-marketing-statistics-infographic/).
 
+#### Pinterest
+
+- 📺 [Pinterest Conversion Tag Setup for your Shopify Store](https://www.youtube.com/watch?v=3Nrwab18E48).
+
 #### Product inventory
 
 - 📖 [9 Tips to Manage Out-of-stock Inventory](https://www.practicalecommerce.com/9-tips-manage-stock-inventory).
