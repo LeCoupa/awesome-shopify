@@ -42,7 +42,8 @@
       - [Analytics and reports](#analytics-and-reports)
       - [Apps](#apps)
       - [Customer support](#customer-support)
-      - [Product inventory](#product-inventory)
+      - [Customer support](#customer-support)
+      - [Emailing](#emailing)
       - [Product and category pages](#product-and-category-pages)
       - [SEO](#seo)
       - [Social medias](#social-medias)
@@ -530,6 +531,10 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 #### Customer support
 
 - 📖 [5 Reasons Why Live Chat is Important for Your Business Website](https://www.liveagent.com/blog/5-reasons-why-live-chat-is-important-for-your-business-website/).
+
+#### Emailing
+
+- 📖 [Ecommerce Email Marketing Statistics 2018 [Infographic]](https://www.omnisend.com/blog/ecommerce-email-marketing-statistics-infographic/).
 
 #### Product inventory
 
