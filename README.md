@@ -391,25 +391,79 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 #### Products
 
-- 📦 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
+- 🚀 [Shopify Fulfillment Network](https://www.shopify.com/fulfillment).
 
-- 📦 [Shopify Shipping](https://www.shopify.com/shipping).
+- 🚀 [Shopify Shipping](https://www.shopify.com/shipping).
 
-- 📦 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/).
+- 🚀 [Shopify POS](https://www.shopify.com/pos) on [Shopify Hardware](https://hardware.shopify.com/).
 
-- 📦 [Shopify Payments](https://www.shopify.com/payments).
+- 🚀 [Shopify Payments](https://www.shopify.com/payments).
 
-- 📦 [Shopify Buy Button](https://www.shopify.com/buy-button).
+- 🚀 [Shopify Buy Button](https://www.shopify.com/buy-button).
 
-- 📦 [Shopify Sales Channels](https://www.shopify.com/channels).
+- 🚀 [Shopify Sales Channels](https://www.shopify.com/channels).
 
-- 📦 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
+- 🚀 [Shopify Storefront](https://www.shopify.com/custom-storefront-tools).
 
-- 📦 [Shopify Oberlo](https://www.shopify.com/oberlo).
+- 🚀 [Shopify Oberlo](https://www.shopify.com/oberlo).
 
-- 📦 [Shopify Ping](https://www.shopify.com/ping).
+- 🚀 [Shopify Ping](https://www.shopify.com/ping).
 
-- 📦 [Shopify Kit](https://www.shopify.com/kit).
+- 🚀 [Shopify Kit](https://www.shopify.com/kit).
+
+#### Apps
+
+- 📦 [Advanced Cash on Delivery](https://apps.shopify.com/advanced-cash-on-delivery): Control how buyers use COD on your store (India only).
+
+- 📦 [Amazon channel](https://apps.shopify.com/amazon): Sell on Amazon by listing your products and managing orders.
+
+- 📦 [Apple Business Chat](https://apps.shopify.com/apple-business-chat): Let customers contact you directly in Apple’s Messages app.
+
+- 📦 [Buy Button channel](https://apps.shopify.com/buy-button): Sell your products on any website or blog.
+
+- 📦 [Digital Downloads](https://apps.shopify.com/digital-downloads): Sell digital products in your store.
+
+- 📦 [Fraud Filter](https://apps.shopify.com/fraud-filter): Create custom filters to help you prevent fraud.
+
+- 📦 [Facebook Marketing](https://apps.shopify.com/facebook-marketing): Promote products to the right audience on Facebook.
+
+- 📦 [Facebook Shop channel](https://apps.shopify.com/facebook-store): Sell on Facebook from the Shop section of your Facebook Page.
+
+- 📦 [Geolocation](https://apps.shopify.com/geolocation): Boost global sales with language and currency recommendations.
+
+- 📦 [Google Shopping](https://apps.shopify.com/google-shopping): Show products to interested customers across Google's Network.
+
+- 📦 [Instagram channel](https://apps.shopify.com/instagram): Sell on Instagram by tagging products in your posts & stories.
+
+- 📦 [Kit](https://apps.shopify.com/kit): Run better Facebook ads.
+
+- 📦 [Launchpad](https://apps.shopify.com/launchpad): Schedule and monitor sales, releases, and content changes.
+
+- 📦 [Messenger channel](https://apps.shopify.com/messenger): Sell products and provide customer support from Messenger.
+
+- 📦 [Oberlo ‑ Dropshipping App](https://apps.shopify.com/oberlo): Find products to sell on Shopify.
+
+- 📦 [Order Printer](https://apps.shopify.com/order-printer): Print invoices, labels, receipts, packing slips, and more.
+
+- 📦 [Point of Sale](https://apps.shopify.com/shopify-pos): Sell anywhere. Accept any payment. Grow your business.
+
+- 📦 [Product Reviews](https://apps.shopify.com/product-reviews): The simplest way to share your customers' experiences.
+
+- 📦 [Retail Barcode Labels](https://apps.shopify.com/retail-barcode-labels): Create and print barcode labels for your products.
+
+- 📦 [Return Magic](https://apps.shopify.com/returnmagic): Top-rated return solution. Make your returns magical!
+
+- 📦 [Script Editor](https://apps.shopify.com/script-editor): Create personalized checkout experiences & powerful promotion.
+
+- 📦 [Shopcodes](https://apps.shopify.com/shopcodes): Market products and link to checkout with Shopify QR codes.
+
+- 📦 [Shopify Chat](https://apps.shopify.com/chat): Chat live with store visitors. Turn visitors into customers.
+
+- 📦 [Shopify Flow](https://apps.shopify.com/flow): Turn tasks into automations so you can get back to business.
+
+- 📦 [Stocky](https://apps.shopify.com/stocky): Inventory Management, Purchase Orders, Stocktakes, and More.
+
+- 📦 [Transporter](https://apps.shopify.com/transporter): The fastest and easiest way to switch to Shopify Plus.
 
 #### Free tools
 
