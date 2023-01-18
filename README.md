@@ -613,6 +613,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [While Supplies Last: How to Use Scarcity and Urgency to Increase Sales](https://www.shopify.in/blog/using-scarcity-urgency-increase-sales).
 
+- 📖 [Inventory management concepts and techniques](https://inventory-management.com/inventory-management/inventory-management-concepts-and-techniques/) 
+
 #### Product and category pages
 
 - 📖 [Ecommerce Product Pages: 6 Shopify Examples to Learn from](https://www.oberlo.com/ebooks/powerful-product-pages/best-product-pages).
