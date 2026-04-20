@@ -522,6 +522,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 #### Useful tools
 
 - ⚙️ [Huntify](https://www.huntify.io/): a leaderboard of new Shopify Apps where each day app developers will submit their apps to the community for everyone to vote on.
+- ⚙️ [AmazingPlugins Shopify Accessibility Fixer](https://github.com/AmazingPlugins/shopify-accessibility-fixer): Auto-fixes WCAG 2.1 AA accessibility issues on Shopify stores. Real code-level fixes — not an overlay widget. Covers missing alt text, keyboard traps, form labels, color contrast, focus indicators, and heading hierarchy.
 
 ### Shopify themes
 
