@@ -583,6 +583,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - 📖 [6 Types of Inventory and Sales Reports to Use in Your Retail Store](https://www.vendhq.com/blog/retail-inventory-sales-reports/).
 
+- 📊 [Ecommerce Profit Tracker PRO](https://limin6661.github.io/ecommerce-profit-tracker/) - Track real profit per order after platform fees, payment processing, ads, shipping & returns. Excel/Google Sheets template with auto-dashboard for Shopify, Etsy, Amazon & eBay sellers.
+
 #### Apps
 
 - 📖 [Best 14 Free Shopify Apps You Need to Install](https://www.oberlo.com/blog/top-14-free-shopify-apps-need-install).
