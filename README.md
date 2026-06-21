@@ -665,6 +665,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - ⚙️ [BuiltWith](https://builtwith.com/).
 
+- ⚙️ [igly.ai](https://igly.ai) - AI image editing platform for Shopify product visuals, including background removal, inpainting, upscaling, and generative fill.
+
 ### Dropshipping
 
 - 🚚 [Oberlo](https://www.oberlo.com/).
