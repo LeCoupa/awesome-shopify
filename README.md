@@ -582,6 +582,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 #### Analytics and reports
 
 - 📖 [6 Types of Inventory and Sales Reports to Use in Your Retail Store](https://www.vendhq.com/blog/retail-inventory-sales-reports/).
+- [Stack Architect](https://stackarchitect.xyz/) - Zero-JS utility calculators and open-source automated workflows for Shopify tech stack auditing and server-side tracking.
 
 #### Apps
 
