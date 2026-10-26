@@ -724,6 +724,7 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 - 📺 [Jody Edgar - The Shopify Expert](https://www.youtube.com/user/howtoshopify/videos).
 
 - 📺 [EcommerceTech](https://www.youtube.com/channel/UCGKhbXblT3eX6V4-vVqQVnw/videos).
+* [Level 2026 Shopify & DTC Financial Benchmarks](https://levelcfo.com/benchmarks/ecommerce/) - Benchmarks for Cash Conversion Cycle days, return rates by category, post-ad-spend contribution margin, and reconciling Shopify Admin to QuickBooks Online or Finaloop.
 
 ## App and theme developers - Shopify partners
 
