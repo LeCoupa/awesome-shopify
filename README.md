@@ -537,6 +537,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - ⚙️ [WhatStoreTheme](https://whatstoretheme.com/): Get to know what shopify theme an online store is using.
 
+- ⚙️ [VibeFix Shopify Accessibility Checker](https://vibe-fixer.com/tools/shopify-accessibility-checker): Free, read-only check of a store's public homepage for the accessibility issues software can find, against WCAG 2.0 and 2.1, Levels A and AA.
+
 ### Marketing resources
 
 #### Advertising
