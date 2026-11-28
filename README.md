@@ -665,6 +665,8 @@ Unite is Shopify’s annual partner and developer conference. This is where they
 
 - ⚙️ [BuiltWith](https://builtwith.com/).
 
+- ⚙️ [Shopify Merchant Diagnostic Tools](https://github.com/star119055/shopify-merchant-diagnostics) — Open-source, browser-local checkers for GMC shipping currency mismatches, GA4/Google Ads Checkout Extensibility purchase events, and German E-Rechnung (ZUGFeRD/XRechnung EN 16931) XML.
+
 ### Dropshipping
 
 - 🚚 [Oberlo](https://www.oberlo.com/).
